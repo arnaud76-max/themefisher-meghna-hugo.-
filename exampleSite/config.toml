@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Meghna"
+title = "NWE"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -21,35 +21,45 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
+name = "about"
+pre = "#"
+url = "about"
+weight = 1
+[[menu.main]]
+name = "services"
+pre = "#"
+url = "services"
+weight = 2
+[[menu.main]]
+name = "portfolio"
+pre = "#"
+url = "portfolio"
+weight = 3
+[[menu.main]]
+name = "team"
+pre = "#"
+url = "team"
+weight = 4
+[[menu.main]]
+name = "pricing"
+pre = "#"
+url = "pricing"
+weight = 5
+[[menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
 weight = 6
 [[menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
-weight = 5
+weight = 7
 [[menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 4
-[[menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 3
-[[menu.main]]
-name = "services"
-pre = "#"
-url = "Pôle BDE"
-weight = 2
-[[menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
+name = "themefisher"
+pre = ""
+url = "https://themefisher.com/"
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
