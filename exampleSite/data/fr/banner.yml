@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: fond-copie.png
   bg_image: fond-copie.png
   icon: ''
