@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: fond-copie.png
-  bg_image: fond-copie.png
+  bg_image_webp: ''
+  bg_image: image/fond-copie.png
   icon: ''
   title: La NWE vous souhaite la bienvenue
   content: ''
