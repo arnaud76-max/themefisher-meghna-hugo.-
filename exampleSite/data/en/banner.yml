@@ -4,7 +4,7 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: La NWE vous souhaite la bienvenue
+  title: The NWE welcomes you
   content: ''
   button:
     enable: true
