@@ -12,5 +12,8 @@ social:
 draft: true
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Je m'appelle Arnaud Delahaye, je suis en 2eme année de Développement à la NWS.
+
+Je suis également président et développeur fu site NWE j’espère que vous aller passer un agréable moment sur notre site web.
+
+Bonne navigation à tous
