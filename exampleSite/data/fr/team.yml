@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: 'Les membres du bureau '
   team_member:
   - name: Arnaud Delahaye
     image_webp: images/team/team-1.webp
