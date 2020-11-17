@@ -6,8 +6,7 @@ portfolio:
   - name: Soirée halloween
     image: "/images/halloween-2.png"
     image_webp: "/images/halloween-2.webp"
-    categories:
-    - design
+    categories: []
     content: Malheureusement en raison du confinement la soirée d'halloween à du être
       annuler
     link: https://themefisher.com
