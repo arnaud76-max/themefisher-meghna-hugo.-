@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/halloween.png
-    image_webp: images/portfolio/halloween.png
+    image: " exampleSite/static/images/"
+    image_webp: " exampleSite/static/images/"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
