@@ -26,7 +26,7 @@ pre = "#"
 url = "portfolio"
 weight = 1
 [[menu.main]]
-name = "Les membres du bureau"
+name = "Contact"
 pre = "#"
 url = "contact"
 weight = ""
