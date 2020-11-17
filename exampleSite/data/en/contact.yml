@@ -23,8 +23,3 @@ contact:
     subject: Subject
     message: Message
     submit: Submit
-menu:
-  main:
-    name: contact
-    pre: "#"
-    weight: 3
