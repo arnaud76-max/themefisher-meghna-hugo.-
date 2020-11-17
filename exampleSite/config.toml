@@ -27,7 +27,7 @@ url = "skill"
 weight = ""
 [[menu.main]]
 name = "Appels aux dons"
-pre = ""
+pre = "#"
 url = "pricing"
 weight = 4
 [[menu.main]]
