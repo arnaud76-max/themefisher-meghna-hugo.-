@@ -41,9 +41,9 @@ pre = "#"
 url = "Pricing"
 weight = 2
 [[menu.main]]
-name = "Les membres du bureau"
+name = "Nos partenaires"
 pre = "#"
-url = "team"
+url = "skill"
 weight = 1
 [params]
 author = "Themefisher"
