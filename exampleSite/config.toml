@@ -21,11 +21,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "Les membres du bureau"
-pre = "#"
-url = "team"
-weight = ""
-[[menu.main]]
 name = "Evénements"
 pre = "#"
 url = "portfolio"
@@ -45,6 +40,11 @@ name = "Nos partenaires"
 pre = "#"
 url = "skill"
 weight = 1
+[[menu.main]]
+name = "Les membres du bureau"
+pre = "#"
+url = "team"
+weight = ""
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
