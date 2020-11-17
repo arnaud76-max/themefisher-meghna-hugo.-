@@ -28,7 +28,7 @@ weight = ""
 [[menu.main]]
 name = "Appels aux dons"
 pre = "#"
-url = "pricing"
+url = "Pricing"
 weight = 4
 [[menu.main]]
 name = "contact"
