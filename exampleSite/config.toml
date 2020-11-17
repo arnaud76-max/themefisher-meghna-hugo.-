@@ -33,7 +33,7 @@ weight = ""
 [[menu.main]]
 name = "contact"
 pre = "#"
-url = "contact"
+url = "pricing"
 weight = 3
 [[menu.main]]
 name = "Evénements"
