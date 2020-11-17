@@ -21,21 +21,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "Appels aux dons"
-pre = ""
-url = "pricing"
-weight = 4
-[[menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 3
-[[menu.main]]
-name = "Evénements"
-pre = "#"
-url = "portfolio"
-weight = 2
-[[menu.main]]
 name = "Les membres du bureau"
 pre = "#"
 url = "team"

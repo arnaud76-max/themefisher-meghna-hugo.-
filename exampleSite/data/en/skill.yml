@@ -8,3 +8,7 @@ skill:
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image: images/about/company-growth.webp
   skill_item: []
+menu:
+  main:
+    name: Nos partenaires
+    weight: 5
