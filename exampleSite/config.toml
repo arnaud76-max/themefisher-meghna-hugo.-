@@ -1,4 +1,4 @@
-baseURL = "https://NWE.com"
+baseURL = "https://NWE.fr"
 disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
