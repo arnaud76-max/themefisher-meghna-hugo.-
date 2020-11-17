@@ -36,7 +36,7 @@ pre = "#"
 url = "pricing"
 weight = 4
 [[menu.main]]
-name = "team"
+name = "Les membres du bureau"
 pre = "#"
 url = "team"
 weight = 3
