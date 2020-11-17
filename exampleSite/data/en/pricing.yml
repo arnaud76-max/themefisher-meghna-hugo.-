@@ -29,8 +29,8 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Gold
-    price: "$199"
+  - name: ''
+    price: 20€
     unit: month
     services:
     - 1GB Disk Space
