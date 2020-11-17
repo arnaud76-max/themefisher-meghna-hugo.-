@@ -16,9 +16,9 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Silver
-    price: "$149"
-    unit: month
+  - name: ''
+    price: 15€
+    unit: ''
     services:
     - 1GB Disk Space
     - 10 Email Account
