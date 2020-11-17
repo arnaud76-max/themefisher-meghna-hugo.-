@@ -36,9 +36,9 @@ pre = "#"
 url = "pricing"
 weight = 3
 [[menu.main]]
-name = "Evénements"
+name = "Nos partenaires"
 pre = "#"
-url = "Evénements"
+url = "skill"
 weight = 4
 [[menu.main]]
 name = "Appels aux dons"
