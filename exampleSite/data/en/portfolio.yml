@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Evénement
+  title: Evénements
   portfolio_item:
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
