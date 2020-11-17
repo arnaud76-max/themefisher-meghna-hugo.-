@@ -48,10 +48,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
+  - name: Fabien Ghesquiere
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: SEO Specialist
+    designation: Community management
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
