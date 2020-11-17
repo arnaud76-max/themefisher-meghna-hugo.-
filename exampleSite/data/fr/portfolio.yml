@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Tag Design
+  - name: Soirée halloween
     image: "/images/halloween-2.png"
     image_webp: "/images/halloween-2.webp"
     categories:
