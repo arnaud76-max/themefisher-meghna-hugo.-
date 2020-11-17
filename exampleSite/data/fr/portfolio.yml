@@ -4,7 +4,7 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: i
+    image: "/images/halloween-2.png"
     image_webp: "/images/halloween-2.webp"
     categories:
     - design
