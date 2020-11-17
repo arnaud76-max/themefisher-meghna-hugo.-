@@ -21,7 +21,7 @@ team:
   - name: Gauthier Cauchois
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
-    designation: Organisateur d'événement
+    designation: Event organizer
     content: ''
     social:
     - icon: ti-facebook
