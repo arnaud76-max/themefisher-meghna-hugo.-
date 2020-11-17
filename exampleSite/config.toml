@@ -31,7 +31,7 @@ pre = "#"
 url = "contact"
 weight = ""
 [[menu.main]]
-name = "contact"
+name = "Appels aux dons"
 pre = "#"
 url = "pricing"
 weight = 3
