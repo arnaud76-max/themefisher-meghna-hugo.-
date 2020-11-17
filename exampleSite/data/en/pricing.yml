@@ -31,7 +31,7 @@ pricing:
       link: "#"
   - name: ''
     price: 20€
-    unit: month
+    unit: ''
     services:
     - 1GB Disk Space
     - 10 Email Account
