@@ -55,8 +55,3 @@ pricing:
     button:
       label: Signup
       link: "#"
-menu:
-  main:
-    name: Appels aux dons
-    pre: ''
-    weight: 4
