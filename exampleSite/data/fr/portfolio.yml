@@ -9,7 +9,7 @@ portfolio:
     categories: []
     content: Malheureusement en raison du confinement la soirée d'halloween à du être
       annuler
-    link: https://themefisher.com
+    link: "/images/presentation-soiree-halloween.mp4"
   - name: Sound system
     image: images/portfolio/halloween.png
     image_webp: images/portfolio/portfolio-2.webp
