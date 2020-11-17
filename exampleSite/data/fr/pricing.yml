@@ -3,9 +3,9 @@ pricing:
   enable: true
   title: Appels aux dons
   pricing_table:
-  - name: Free
-    price: "$99"
-    unit: month
+  - name: ''
+    price: 10€
+    unit: ''
     services:
     - 1GB Disk Space
     - 10 Email Account
