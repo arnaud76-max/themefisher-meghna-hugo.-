@@ -26,9 +26,9 @@ pre = "#"
 url = "team"
 weight = ""
 [[menu.main]]
-name = "Appels aux dons"
+name = "Evénements"
 pre = "#"
-url = "Pricing"
+url = "Portfolio"
 weight = 4
 [[menu.main]]
 name = "contact"
