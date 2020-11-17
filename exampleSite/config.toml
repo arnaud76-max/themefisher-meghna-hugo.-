@@ -41,7 +41,7 @@ pre = "#"
 url = "skill"
 weight = 4
 [[menu.main]]
-name = "Appels aux dons"
+name = "Membres du bureau"
 pre = "#"
 url = "team"
 weight = 2
