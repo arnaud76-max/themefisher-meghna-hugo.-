@@ -8,7 +8,8 @@ portfolio:
     image_webp: "/images/halloween-2.webp"
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Malheureusement en raison du confinement la soirée d'halloween à du être
+      annuler
     link: https://themefisher.com
   - name: Sound system
     image: images/portfolio/halloween.png
