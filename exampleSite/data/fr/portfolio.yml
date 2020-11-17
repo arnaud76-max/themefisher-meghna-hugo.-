@@ -11,7 +11,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
   - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
+    image: images/portfolio/halloween.png
     image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
