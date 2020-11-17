@@ -3,10 +3,10 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Arnaud Delahaye
+  - name: Amélie Mauger
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: CEO/Founder
+    designation: Commercial
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
