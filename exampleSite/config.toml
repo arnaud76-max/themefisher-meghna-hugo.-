@@ -22,8 +22,9 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 name = "Nos partenaires"
+pre = ""
 url = "skill"
-weight = 5
+weight = ""
 [[menu.main]]
 name = "Appels aux dons"
 pre = ""
