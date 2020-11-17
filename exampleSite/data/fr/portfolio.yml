@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Tag Design
     image: i
-    image_webp: exampleSite/static/images/halloween
+    image_webp: "/images/halloween-2.webp"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
