@@ -1,12 +1,8 @@
 ---
 service:
   enable: true
-  title: Evenements
+  title: ''
   service_item:
-  - name: Soirée Halloween
-    icon: "/images/halloween.png"
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
