@@ -13,6 +13,7 @@ html {
 }
 
 body {
+  background-color:whitesmoke;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -406,6 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
+  background-color:purple ;
   width: 100%;
   margin-bottom: 0;
 }
