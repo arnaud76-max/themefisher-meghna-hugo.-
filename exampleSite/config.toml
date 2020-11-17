@@ -21,30 +21,30 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "Evénements"
-pre = "#"
-url = "Evénements"
-weight = 4
-[[menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 3
-[[menu.main]]
-name = "Appels aux dons"
-pre = "#"
-url = "pricing"
-weight = 2
-[[menu.main]]
 name = "Nos partenaires"
 pre = "#"
-url = "skill"
+url = "portfolio"
 weight = 1
 [[menu.main]]
 name = "Les membres du bureau"
 pre = "#"
 url = "team"
 weight = ""
+[[menu.main]]
+name = "contact"
+pre = "#"
+url = "contact"
+weight = 3
+[[menu.main]]
+name = "Evénements"
+pre = "#"
+url = "Evénements"
+weight = 4
+[[menu.main]]
+name = "Appels aux dons"
+pre = "#"
+url = "pricing"
+weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
