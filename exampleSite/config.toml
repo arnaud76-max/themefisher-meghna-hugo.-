@@ -21,6 +21,11 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "Evénements"
+pre = "#"
+url = "portfolio"
+weight = 2
+[[menu.main]]
 name = "Les membres du bureau"
 pre = "#"
 url = "team"
