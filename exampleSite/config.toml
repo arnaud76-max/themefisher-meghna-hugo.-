@@ -44,7 +44,7 @@ weight = 1
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "images/nwe.png"
+logo = "/images/logo_nwe_blanc.png"
 post_share = true
 [params.cookies]
 enable = false
