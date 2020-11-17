@@ -43,7 +43,7 @@ weight = 4
 [[menu.main]]
 name = "Appels aux dons"
 pre = "#"
-url = "pricing"
+url = "team"
 weight = 2
 [params]
 author = "Themefisher"
