@@ -23,7 +23,7 @@ weight = 2
 [[menu.main]]
 name = "Nos partenaires"
 pre = ""
-url = "skill"
+url = "Skill"
 weight = ""
 [[menu.main]]
 name = "Appels aux dons"
