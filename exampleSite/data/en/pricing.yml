@@ -42,9 +42,9 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Platinum
-    price: "$299"
-    unit: month
+  - name: ''
+    price: 30€
+    unit: ''
     services:
     - 1GB Disk Space
     - 10 Email Account
