@@ -16,7 +16,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Silver
+  - name: ''
     price: 15€
     unit: ''
     services:
