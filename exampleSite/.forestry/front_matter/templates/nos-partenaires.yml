@@ -34,3 +34,16 @@ fields:
     - type: text
       name: link
       label: link
+- name: nos_partenaires
+  type: color
+  label: Nos partenaires
+  config:
+    required: false
+    color_format: Hex
+- name: Nos_partenaires
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Nos partenaires
