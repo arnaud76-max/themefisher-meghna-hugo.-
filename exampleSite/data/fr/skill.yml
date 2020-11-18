@@ -4,7 +4,7 @@ skill:
   title: Nos partenaires
   subtitle: ''
   content: ''
-  image: "/images/f2i.webp"
+  image: ''
   skill_item:
   - name: Business Development
     percent: 90%
