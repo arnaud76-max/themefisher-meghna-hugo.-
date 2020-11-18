@@ -36,8 +36,8 @@ name = ""
 [[portfolio.portfolio_item]]
 categories = []
 content = ""
-image = "/isd.png"
-image_webp = "/isd.webp"
+image = "/logo-metropole.jpg"
+image_webp = ""
 link = ""
 name = ""
 
