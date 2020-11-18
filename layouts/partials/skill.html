@@ -22,12 +22,12 @@
 				<p> {{ .content | markdownify }}</p>
 				{{ with .image }}
 				<img class="img-fluid lozad" data-src="{{ . | absURL }}" alt="image">
-				<img src=/images/f2i.webp>
+				<img src="/image/f2i.png">
 				<img src="/image/greta.png">
 				<img src="/image/nwx-e1549538125325.png">
 				<img src="/image/ISD.png">
 				<img src="/image/logo.png">
-				<img src="/image/logo-metropole.jpg>
+				<img src="/image/logo-metropole.jpg">
 				{{ end }}
 			</div>
 			<div class="col-lg-6">
@@ -38,8 +38,7 @@
 					<li>
 						<p><span>{{if lt $index 9}}0{{end}}{{$.Scratch.Get `counter`}}- </span>{{ .name }}</p>
 						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"
-								style="width:{{ .percent }}">
+							<div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">	
 							</div>
 						</div>
 					</li>
