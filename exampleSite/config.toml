@@ -1,5 +1,5 @@
 baseURL = "https://NWE.com"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
