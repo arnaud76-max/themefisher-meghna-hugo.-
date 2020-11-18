@@ -2,7 +2,7 @@
 Nos_partenaires = []
 draft = true
 image = ["/images/isd.webp"]
-nos_partenaires = ""
+nos_partenaires = "#BD10E0"
 [portfolio]
 enable = true
 portfolio_item = []
