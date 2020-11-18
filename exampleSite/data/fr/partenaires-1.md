@@ -8,6 +8,13 @@ title = ""
 [[portfolio.portfolio_item]]
 categories = []
 content = ""
+image = ""
+image_webp = ""
+link = ""
+name = ""
+[[portfolio.portfolio_item]]
+categories = []
+content = ""
 image = "/f2i.png"
 image_webp = "/f2i.webp"
 link = ""
