@@ -22,7 +22,7 @@
 				<p> {{ .content | markdownify }}</p>
 				{{ with .image }}
 				<img class="img-fluid lozad" data-src="{{ . | absURL }}" alt="image">
-				<img src="/exampleSite/static/image/f2i.png">
+				
 				<img src="/themefisher-meghna-hugo/exampleSite/static/images/isd.png ">
 				<img src="/exampleSite/static/images/nwx-e1549538125325.png">
 				<img src="/exampleSite/static/images/logo.webp">
@@ -30,6 +30,7 @@
 				<img src="/exampleSite/static/images/logo-metropole.jpg">
 				{{ end }}
 			</div>
+			<img src="/exampleSite/static/image/f2i.png">
 			<div class="col-lg-6">
 				<ul class="skill-bar">
 					{{ $.Scratch.Set "counter" 0 }}
