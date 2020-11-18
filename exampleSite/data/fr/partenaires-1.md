@@ -4,7 +4,7 @@ draft = true
 nos_partenaires = "#BD10E0"
 [portfolio]
 enable = true
-title = ""
+title = "Nos partenaires"
 [[portfolio.portfolio_item]]
 categories = []
 content = ""
