@@ -22,8 +22,8 @@ name = ""
 [[portfolio.portfolio_item]]
 categories = []
 content = ""
-image = ""
-image_webp = ""
+image = "/greta.png"
+image_webp = "/greta.webp"
 link = ""
 name = ""
 [[portfolio.portfolio_item]]
