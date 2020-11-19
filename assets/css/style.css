@@ -8,8 +8,8 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #353b43;
-  color: #737f8a;
+  background-color: purple;
+  color: #0daeee;
 }
 
 body {
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color:blue;
+  color:#0daeee;
 }
 
 p {
@@ -52,7 +52,7 @@ pre {
 }
 
 ::selection {
-  color: #fff;
+  color: #0daeee;
   background: #57cbcc;
 }
 
@@ -99,7 +99,7 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: #fff;
+  color:#0daeee;
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
@@ -117,7 +117,7 @@ a:hover {
 .btn-transparent:focus {
   background-color: #57cbcc;
   border: 1px solid transparent;
-  color: #fff;
+  color: #0daeee;
 }
 
 .border-meghna {
@@ -303,19 +303,19 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #0daeee;
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: purple;
 }
 
 .title p {
-  color: #666;
+  color:#0daeee;
 }
 
 .title.title-white h2 {
-  color: #fff;
+  color:#0daeee;
 }
 
 .bg-gray {
@@ -346,13 +346,13 @@ a:hover {
 
 .header-bradcrumb a,
 .header-bradcrumb .active {
-  color: #cfcfcf;
+  color: #0daeee;
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #0daeee;
 }
 
 .slick-slide {
@@ -459,7 +459,7 @@ a:hover {
 }
 
 .hero-area .block .video-button {
-  background: #fff;
+  background:#0daeee;;
   color: #57cbcc;
   display: inline-block;
   height: 60px;
@@ -475,7 +475,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
-  color: #fff;
+  color:#0daeee;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
@@ -536,7 +536,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(173, 3, 117, 0.7);
   height: 100%;
   width: 100%;
   position: absolute;
@@ -607,7 +607,7 @@ a:hover {
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #0daeee;
 }
 
 /*=================================================================
