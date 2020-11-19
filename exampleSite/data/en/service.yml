@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: ''
   service_item:
   - name: Responsive Design
