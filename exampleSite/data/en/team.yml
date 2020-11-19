@@ -35,17 +35,8 @@ team:
     - icon: ti-dribbble
       link: "#"
     name: Quentin Huaume
-  - content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+  - content: ''
+    social: "[object Object],[object Object],[object Object],[object Object]"
     name: Emmanuel Mouanga-Zou
     designation: Web designer
     image: "/images/photo6.png"
