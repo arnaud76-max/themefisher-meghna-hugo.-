@@ -1,7 +1,7 @@
 ---
 service:
-  enable: false
-  title: Our Services
+  enable: true
+  title: ''
   service_item:
   - name: WordPress Theme
     icon: ti-world
