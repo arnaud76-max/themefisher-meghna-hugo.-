@@ -22,7 +22,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 name = "Créations de nos étudiants"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "Nos partenaires"
 pre = "#"
@@ -42,12 +42,12 @@ weight = 4
 name = "Evénements"
 pre = "#"
 url = "portfolio"
-weight = 2
+weight = 3
 [[menu.main]]
 name = " Bureau des étudiants"
 pre = "#"
 url = "team"
-weight = 3
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
