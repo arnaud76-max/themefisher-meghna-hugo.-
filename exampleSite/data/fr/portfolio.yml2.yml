@@ -10,7 +10,7 @@ portfolio:
     content: ''
     link: ''
   - name: Sound system
-    image: images/portfolio/halloween.png
+    image: images/f2i.png
     image_webp: "/images/f2i.webp"
     categories:
     - development
