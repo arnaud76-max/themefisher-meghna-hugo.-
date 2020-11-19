@@ -1,15 +1,14 @@
 ---
 portfolio:
   enable: true
-  title: Evénements
+  title: Nos partenaires
   portfolio_item:
-  - name: Soirée halloween
-    image: "/images/halloween-2.png"
-    image_webp: "/images/halloween-2.webp"
+  - name: metropole
+    image: ''
+    image_webp: ''
     categories: []
-    content: Malheureusement en raison du confinement la soirée d'halloween à du être
-      annuler
-    link: "/images/presentation-soiree-halloween.ogv"
+    content: ''
+    link: ''
   - name: Sound system
     image: images/portfolio/halloween.png
     image_webp: images/portfolio/portfolio-2.webp
