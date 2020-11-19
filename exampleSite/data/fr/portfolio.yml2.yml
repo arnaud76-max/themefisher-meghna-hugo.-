@@ -33,7 +33,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: ''
-    image: ''
+    image: "/images/nwx-e1549538125325.png"
     image_webp: "/images/nwx-e1549538125325.webp"
     categories:
     - design
