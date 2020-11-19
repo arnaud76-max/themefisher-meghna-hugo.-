@@ -4,7 +4,7 @@ portfolio:
   title: Nos partenaires
   portfolio_item:
   - name: metropôle
-    image: ''
+    image: "/images/logo-metropole.jpg"
     image_webp: "/images/logo-metropole-copie.webp"
     categories:
     - design
