@@ -19,7 +19,7 @@ portfolio:
     link: ''
   - name: sdi
     image: "/images/isd.png"
-    image_webp: ''
+    image_webp: "/images/isd.webp"
     categories:
     - design
     - development
