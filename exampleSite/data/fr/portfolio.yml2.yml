@@ -18,7 +18,7 @@ portfolio:
     link: ''
   - name: ''
     image: "/images/logo.png"
-    image_webp: ''
+    image_webp: "/images/logo.webp"
     categories:
     - design
     - development
