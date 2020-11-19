@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: metropole
     image: ''
-    image_webp: ''
+    image_webp: "/images/logo-metropole-copie.webp"
     categories: []
     content: ''
     link: ''
