@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Evénements
+  title: Nos partenaires
   portfolio_item:
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
@@ -62,9 +62,9 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: ''
+    image: ''
+    image_webp: ''
     categories:
     - design
     - photography
