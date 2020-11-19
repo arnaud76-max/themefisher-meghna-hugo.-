@@ -17,7 +17,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: ''
-    image: ''
+    image: "/images/logo.png"
     image_webp: ''
     categories:
     - design
