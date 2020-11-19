@@ -3,16 +3,10 @@ team:
   enable: true
   title: " Bureau étudiants "
   team_member:
-  - name: ''
+  - name: Amélie Mauger
     image_webp: ''
     image: ''
-    designation: ''
-    content: ''
-    social: ''
-  - name: Quentin Huaume
-    image_webp: ''
-    image: ''
-    designation: Trésorier
+    designation: Commercial
     content: ''
     social: ''
   - name: Arnaud Delahaye
@@ -72,3 +66,9 @@ team:
       link: "#"
     designation: Web designer
     name: Emmanuel Mouanga-Zou
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Trésorier
+    content: ''
+    social: ''
