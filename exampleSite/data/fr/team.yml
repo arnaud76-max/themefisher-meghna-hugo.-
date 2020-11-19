@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: 'Les membres du bureau '
+  title: " Bureau étudiants "
   team_member:
   - name: ''
     image_webp: ''
