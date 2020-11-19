@@ -35,7 +35,7 @@ portfolio:
     link: "#"
   - name: academie
     image: ''
-    image_webp: ''
+    image_webp: "/images/logo.webp"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
