@@ -58,10 +58,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - image_webp: ''
+    image: ''
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
