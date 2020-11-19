@@ -3,6 +3,12 @@ team:
   enable: true
   title: " Bureau étudiants "
   team_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Quentin Huaume
     image_webp: ''
     image: ''
@@ -65,5 +71,5 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-    name: Amélie Mauger
     designation: Commercial
+    name: Emmanuel Mouanga-Zou
