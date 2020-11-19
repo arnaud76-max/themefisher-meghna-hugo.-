@@ -1,6 +1,6 @@
 ---
 skill:
-  enable: false
+  enable: true
   title: ''
   subtitle: "."
   content: ''
