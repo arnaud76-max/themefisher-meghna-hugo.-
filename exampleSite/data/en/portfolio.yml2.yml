@@ -4,8 +4,8 @@ portfolio:
   title: Nos partenaires
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: ''
+    image_webp: "/images/logo-metropole-copie.webp"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
