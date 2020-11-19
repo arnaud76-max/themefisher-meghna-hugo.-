@@ -3,18 +3,6 @@ team:
   enable: true
   title: Bureau des étudiants
   team_member:
-  - name: Arnaud Delahaye
-    image_webp: ''
-    image: ''
-    designation: Développeur web
-    content: ''
-    social: ''
-  - name: Gauthier Cauchois
-    image_webp: ''
-    image: ''
-    designation: Organisateur d'événements
-    content: ''
-    social: ''
   - name: Amélie Mauger
     image_webp: ''
     image: ''
@@ -25,6 +13,12 @@ team:
     image_webp: ''
     image: ''
     designation: Community management
+    content: ''
+    social: ''
+  - name: Gauthier Cauchois
+    image_webp: ''
+    image: ''
+    designation: Organisateur d'événements
     content: ''
     social: ''
   - image_webp: images/team/team-4.webp
@@ -55,3 +49,9 @@ team:
       link: "#"
     name: Emmanuel Mouanga-Zou
     designation: Web designer
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: ''
+    designation: Développeur web
+    content: ''
+    social: ''
