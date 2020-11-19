@@ -1,5 +1,5 @@
 baseURL = "https://NWE.com"
-disableLanguages = []
+disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -43,7 +43,7 @@ weight = 3
 [[menu.main]]
 name = "Nos partenaires"
 pre = "#"
-url = "potfolio"
+url = ""
 weight = 4
 [params]
 author = "Themefisher"
