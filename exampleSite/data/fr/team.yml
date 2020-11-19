@@ -1,8 +1,14 @@
 ---
 team:
   enable: true
-  title: 'Les membres du bureau '
+  title: " Bureau étudiants "
   team_member:
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Trésorier
+    content: ''
+    social: ''
   - name: Arnaud Delahaye
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
@@ -46,10 +52,8 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Quentin Huaume
-    image_webp: images/team/team-4.webp
+  - image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: Trésorier
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -61,3 +65,5 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+    name: Amélie Mauger
+    designation: Commercial
