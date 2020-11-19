@@ -18,7 +18,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: sdi
-    image: ''
+    image: "/images/isd.png"
     image_webp: ''
     categories:
     - design
