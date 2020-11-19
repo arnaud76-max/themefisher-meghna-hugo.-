@@ -6,8 +6,8 @@ title = ""
 [[portfolio.portfolio_item]]
 categories = []
 content = ""
-image = ""
-image_webp = ""
+image = "/logo-metropole.jpg"
+image_webp = "/logo-metropole-copie.webp"
 link = ""
 name = ""
 [[portfolio.portfolio_item]]
