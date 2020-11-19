@@ -40,7 +40,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: ''
-    image: ''
+    image: "/images/greta.png"
     image_webp: "/images/greta.webp"
     categories:
     - photography
