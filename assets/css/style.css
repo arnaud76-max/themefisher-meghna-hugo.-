@@ -15,7 +15,7 @@ html {
 body {
   background-color:whitesmoke;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: purple;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color:blue;
 }
 
 p {
@@ -65,7 +65,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: rgb(80, 2, 19);
   transition: all .3s ease-in 0s;
 }
 
@@ -82,7 +82,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #4B97D1;
 }
 
 .kill-margin-bottom {
@@ -163,7 +163,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color:whitesmoke;
 }
 
 .bg-dark {
@@ -602,8 +602,8 @@ a:hover {
 
 .about .block .icon-box:after {
   bottom: -56.5685px;
-  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
-  border-left: 2px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 2px solide purple;
+  border-left: 2px solid purple;
 }
 
 .about .block .icon-box h3 {
@@ -711,7 +711,7 @@ a:hover {
 }
 
 #contact-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid purple;
   background: #57cbcc;
   padding: 12px 0;
   width: 100%;
@@ -859,7 +859,7 @@ a:hover {
 
 .portfolio-filter .btn {
   outline: 0;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid purple;
   background: transparent;
   display: inline-block;
   font-size: 16px;
@@ -947,8 +947,8 @@ a:hover {
 ==================================================================*/
 .service-block {
   padding: 60px 20px;
-  border-left: 1px solid rgba(236, 239, 241, 0.07);
-  border-top: 1px solid rgba(236, 239, 241, 0.07);
+  border-left: 1px solid purple;
+  border-top: 1px solid purple;
   margin-bottom: 40px;
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
@@ -1021,7 +1021,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #292F36;
+  background-color: purple;
   margin-bottom: 10px;
 }
 
