@@ -10,16 +10,16 @@ portfolio:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: nwx
+    image: "/images/nwx-e1549538125325.png"
+    image_webp: "/images/nwx-e1549538125325.webp"
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+  - name: sdi
+    image: "/images/isd.png"
+    image_webp: "/images/isd.webp"
     categories:
     - design
     - development
@@ -33,16 +33,16 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+  - name: academie
+    image: "/images/logo.png"
+    image_webp: "/images/logo.webp"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+  - name: gréta
+    image: "/images/greta.png"
+    image_webp: "/images/greta.webp"
     categories:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -70,4 +70,4 @@ portfolio:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-title: portfolio.yml2
+title: portfolio.yml
