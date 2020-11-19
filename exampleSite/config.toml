@@ -43,7 +43,7 @@ weight = 3
 [[menu.main]]
 name = "Nos partenaires"
 pre = "#"
-url = "skill"
+url = "potfolio"
 weight = 4
 [params]
 author = "Themefisher"
