@@ -8,14 +8,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: purple;
+  background-color:  rgb(80, 5, 40);
   color: #0daeee;
 }
 
 body {
   background-color:whitesmoke;
   font-family: "Anaheim", sans-serif;
-  color: purple;
+  color: rgb(80, 5, 40) ;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: purple;
+  color: rgb(80, 5, 40);
 }
 
 .title p {
@@ -323,7 +323,7 @@ a:hover {
 }
 
 .section-bg {
-  background: purple;
+  background:  rgb(80, 5, 40);
 }
 
 .overly {
@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color:purple ;
+  background-color: rgb(80, 5, 40); ;
   width: 100%;
   margin-bottom: 0;
 }
@@ -536,7 +536,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgba(173, 3, 117, 0.7);
+  background: rgb(80, 5, 40) ;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -603,7 +603,7 @@ a:hover {
 .about .block .icon-box:after {
   bottom: -56.5685px;
   border-bottom: 2px solide purple;
-  border-left: 2px solid purple;
+  border-left: 2px solid  rgb(80, 5, 40);
 }
 
 .about .block .icon-box h3 {
@@ -711,7 +711,7 @@ a:hover {
 }
 
 #contact-submit {
-  border: 1px solid purple;
+  border: 1px solid  rgb(80, 5, 40);;
   background: #57cbcc;
   padding: 12px 0;
   width: 100%;
@@ -859,7 +859,7 @@ a:hover {
 
 .portfolio-filter .btn {
   outline: 0;
-  border: 1px solid purple;
+  border: 1px solid  rgb(80, 5, 40);
   background: transparent;
   display: inline-block;
   font-size: 16px;
@@ -947,8 +947,8 @@ a:hover {
 ==================================================================*/
 .service-block {
   padding: 60px 20px;
-  border-left: 1px solid purple;
-  border-top: 1px solid purple;
+  border-left: 1px solid  rgb(80, 5, 40);
+  border-top: 1px solid  rgb(80, 5, 40);
   margin-bottom: 40px;
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
@@ -1021,7 +1021,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: purple;
+  background-color: rgb(80, 5, 40);
   margin-bottom: 10px;
 }
 
