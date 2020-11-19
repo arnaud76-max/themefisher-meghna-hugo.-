@@ -26,7 +26,7 @@ portfolio:
     link: "#"
   - name: ''
     image: ''
-    image_webp: ''
+    image_webp: "/images/isd.webp"
     categories:
     - photography
     - development
