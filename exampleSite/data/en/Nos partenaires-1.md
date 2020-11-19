@@ -1,5 +1,4 @@
 +++
-draft = true
 [portfolio]
 enable = true
 title = ""
