@@ -25,7 +25,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: ''
-    image: ''
+    image: "/images/isd.png"
     image_webp: "/images/isd.webp"
     categories:
     - photography
