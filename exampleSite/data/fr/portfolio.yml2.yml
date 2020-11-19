@@ -17,8 +17,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: ''
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: ''
+    image_webp: ''
     categories:
     - design
     - development
