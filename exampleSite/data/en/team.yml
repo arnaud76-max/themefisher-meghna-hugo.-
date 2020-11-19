@@ -17,15 +17,14 @@ team:
     social: ''
   - name: Gauthier Cauchois
     image_webp: ''
-    image: ''
+    image: "/images/photo6.png"
     designation: Organisateur d'événements
     content: ''
     social: ''
-  - image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
+  - image_webp: ''
+    image: "/images/photo6.png"
     designation: Trésorier
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: "."
     social:
     - icon: ti-facebook
       link: "#"
@@ -49,9 +48,10 @@ team:
       link: "#"
     name: Emmanuel Mouanga-Zou
     designation: Web designer
+    image: "/images/photo6.png"
   - name: Arnaud Delahaye
     image_webp: ''
-    image: ''
+    image: "/images/photo6.png"
     designation: Développeur web
     content: ''
     social: ''
