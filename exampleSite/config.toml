@@ -27,12 +27,12 @@ weight = 2
 name = "Nos partenaires"
 pre = "#"
 url = "portfolio"
-weight = 6
+weight = 5
 [[menu.main]]
 name = "Appels aux dons"
 pre = "#"
 url = "pricing"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Nous contacter"
 pre = "#"
