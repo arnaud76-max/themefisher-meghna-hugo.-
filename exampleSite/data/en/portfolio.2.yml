@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Nos partenaires
   portfolio_item:
   - name: metropôle
