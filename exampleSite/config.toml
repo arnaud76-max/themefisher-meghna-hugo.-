@@ -21,6 +21,9 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "Créations de nos étudiants"
+weight = 6
+[[menu.main]]
 name = "Nos partenaires"
 pre = "#"
 url = "portfolio"
@@ -41,7 +44,7 @@ pre = "#"
 url = "portfolio"
 weight = 2
 [[menu.main]]
-name = "Membres du bureau"
+name = " Bureau des étudiants"
 pre = "#"
 url = "team"
 weight = 3
