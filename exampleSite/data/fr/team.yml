@@ -9,12 +9,11 @@ team:
     designation: Commercial
     content: ''
     social: ''
-  - name: Arnaud Delahaye
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: Président, Secrétair, et Développeur web
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Fabien Ghesquiere
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: Community management
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
@@ -38,20 +37,12 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Fabien Ghesquiere
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Community management
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Trésorier
     content: ''
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    social: ''
   - image_webp: ''
     image: ''
     content: ''
@@ -66,9 +57,18 @@ team:
       link: "#"
     designation: Web designer
     name: Emmanuel Mouanga-Zou
-  - name: Quentin Huaume
-    image_webp: ''
-    image: ''
-    designation: Trésorier
-    content: ''
-    social: ''
+  - name: Arnaud Delahaye
+    image_webp: images/team/team-1.webp
+    image: images/team/team-1.jpg
+    designation: Président, Secrétair, et Développeur web
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
+      ullam, culpa odio.
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
