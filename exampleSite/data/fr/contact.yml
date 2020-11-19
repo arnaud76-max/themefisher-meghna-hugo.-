@@ -16,8 +16,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: Arnaud Delahaye
-    email: adelahaye@normandiewebschool.fr
+    name: Nom
+    email: Email
     subject: Matière
     message: Message
     submit: Soumettre
