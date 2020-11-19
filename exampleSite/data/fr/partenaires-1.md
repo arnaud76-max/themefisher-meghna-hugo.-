@@ -1,5 +1,6 @@
 +++
 Nos_partenaires = []
+image = []
 nos_partenaires = "#BD10E0"
 [portfolio]
 enable = true
@@ -46,5 +47,12 @@ image = "/logo-metropole.jpg"
 image_webp = ""
 link = ""
 name = ""
+[skill]
+content = ""
+enable = true
+image = ""
+skill_item = []
+subtitle = ""
+title = ""
 
 +++
