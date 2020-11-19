@@ -3,7 +3,7 @@ team:
   enable: true
   title: " Bureau étudiants "
   team_member:
-  - name: ''
+  - name: Quentin Huaume
     image_webp: ''
     image: ''
     designation: ''
