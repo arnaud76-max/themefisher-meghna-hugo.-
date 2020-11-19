@@ -34,7 +34,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: academie
-    image: ''
+    image: "/images/logo.png"
     image_webp: "/images/logo.webp"
     categories:
     - design
