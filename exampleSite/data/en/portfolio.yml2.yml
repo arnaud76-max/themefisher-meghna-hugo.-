@@ -10,7 +10,7 @@ portfolio:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
-  - name: Sound system
+  - name: nwx
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
