@@ -39,7 +39,7 @@ team:
     social: "[object Object],[object Object],[object Object],[object Object]"
     name: Emmanuel Mouanga-Zou
     designation: Web designer
-    image: "/images/photo6.png"
+    image: ''
   - name: Arnaud Delahaye
     image_webp: ''
     image: "/images/photo6.png"
