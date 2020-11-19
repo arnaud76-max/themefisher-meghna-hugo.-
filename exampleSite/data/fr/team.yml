@@ -10,8 +10,8 @@ team:
     content: ''
     social: ''
   - name: Fabien Ghesquiere
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
+    image_webp: ''
+    image: "/images/photo6.png"
     designation: Community management
     content: ''
     social:
@@ -24,8 +24,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Gauthier Cauchois
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: ''
+    image: "/images/photo6.png"
     designation: Organisateur d'événements
     content: ''
     social:
@@ -39,7 +39,7 @@ team:
       link: "#"
   - name: Quentin Huaume
     image_webp: ''
-    image: ''
+    image: "/images/photo6.png"
     designation: Trésorier
     content: ''
     social: ''
