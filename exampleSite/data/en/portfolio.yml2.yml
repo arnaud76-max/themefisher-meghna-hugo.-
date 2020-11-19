@@ -26,7 +26,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: f21
-    image: "/images/f2i.webp"
+    image: "/images/f2i.png"
     image_webp: "/images/f2i.webp"
     categories:
     - photography
