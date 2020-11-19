@@ -27,8 +27,8 @@ name = ""
 [[portfolio.portfolio_item]]
 categories = []
 content = ""
-image = ""
-image_webp = ""
+image = "/nwx-e1549538125325.png"
+image_webp = "/nwx-e1549538125325.webp"
 link = ""
 name = ""
 [[portfolio.portfolio_item]]
