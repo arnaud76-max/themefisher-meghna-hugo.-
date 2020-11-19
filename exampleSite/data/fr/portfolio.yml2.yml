@@ -41,7 +41,7 @@ portfolio:
     link: "#"
   - name: ''
     image: ''
-    image_webp: ''
+    image_webp: "/images/greta.webp"
     categories:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
