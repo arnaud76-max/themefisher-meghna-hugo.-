@@ -11,8 +11,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
   - name: nwx
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: ''
+    image_webp: "/images/nwx-e1549538125325.webp"
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
