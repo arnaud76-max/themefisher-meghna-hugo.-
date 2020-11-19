@@ -1,8 +1,8 @@
 ---
 skill:
   enable: true
-  title: Partnairs
+  title: ''
   subtitle: "."
   content: ''
-  image: "/images/f2i.webp"
+  image: ''
   skill_item: []
