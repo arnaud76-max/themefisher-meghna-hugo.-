@@ -3,7 +3,7 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: ''
+  - name: Fabien Ghuesquiere
     image_webp: ''
     image: ''
     designation: ''
