@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Amélie Mauger
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
@@ -48,8 +54,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Fabien Ghesquiere
-    image_webp: images/team/team-4.webp
+  - image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: Community management
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
@@ -63,3 +68,4 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+    name: Quentin
