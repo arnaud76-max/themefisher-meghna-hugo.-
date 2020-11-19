@@ -41,8 +41,8 @@ name = ""
 [[portfolio.portfolio_item]]
 categories = []
 content = ""
-image = ""
-image_webp = ""
+image = "/logo.png"
+image_webp = "/logo.webp"
 link = ""
 name = ""
 
