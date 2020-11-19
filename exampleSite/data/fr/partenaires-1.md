@@ -1,6 +1,6 @@
 +++
 Nos_partenaires = []
-image = []
+image = [""]
 nos_partenaires = "#BD10E0"
 [portfolio]
 enable = true
@@ -50,7 +50,7 @@ name = ""
 [skill]
 content = ""
 enable = true
-image = ""
+image = "/logo-metropole.jpg"
 skill_item = []
 subtitle = ""
 title = ""
