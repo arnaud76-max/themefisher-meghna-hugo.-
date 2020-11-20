@@ -23,7 +23,7 @@ team:
     social: ''
   - image_webp: ''
     image: ''
-    designation: Trésorier
+    designation: ''
     content: "."
     social:
     - icon: ti-facebook
@@ -34,7 +34,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-    name: Quentin Huaume
+    name: ''
   - content: ''
     social: "[object Object],[object Object],[object Object],[object Object]"
     name: ''
