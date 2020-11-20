@@ -26,28 +26,28 @@ pre = "#"
 url = "team"
 weight = 1
 [[menu.main]]
-name = "Créations de nos étudiants"
-weight = 2
-[[menu.main]]
 name = "Nous contacter"
 pre = "#"
 url = "contact"
 weight = 4
-[[menu.main]]
-name = "Nos partenaires"
-pre = "#"
-url = "portfolio"
-weight = 5
 [[menu.main]]
 name = "Cotisation"
 pre = "#"
 url = "pricing"
 weight = 6
 [[menu.main]]
+name = "Créations de nos étudiants"
+weight = 2
+[[menu.main]]
 name = "Evénements"
 pre = "#"
 url = "portfolio"
 weight = 3
+[[menu.main]]
+name = "Nos partenaires"
+pre = "#"
+url = "portfolio"
+weight = 5
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
