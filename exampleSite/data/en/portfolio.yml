@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Evénements
   portfolio_item:
-  - name: Tag Design
+  - name: Soirée halloween
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
