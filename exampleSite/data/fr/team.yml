@@ -3,6 +3,12 @@ team:
   enable: false
   title: " Bureau étudiants "
   team_member:
+  - name: Fabien Ghesquiere
+    image_webp: ''
+    image: ''
+    designation: Community management
+    content: ''
+    social: ''
   - name: Gauthier Cauchois
     image_webp: ''
     image: ''
