@@ -2,4 +2,9 @@
 team:
   enable: true
   title: " Bureau étudiants "
-  team_member: []
+  team_member:
+  - image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
