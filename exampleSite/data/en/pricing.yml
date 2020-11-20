@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Appels aux dons
+  title: Cotisation
   pricing_table:
   - name: ''
     price: 10€
