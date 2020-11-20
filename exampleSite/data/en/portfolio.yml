@@ -16,12 +16,10 @@ portfolio:
     content: ''
     link: ''
   - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    image: ''
+    image_webp: ''
+    categories: []
+    content: ''
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
