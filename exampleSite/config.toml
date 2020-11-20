@@ -39,15 +39,15 @@ pre = "#"
 url = "contact"
 weight = 4
 [[menu.main]]
-name = "Cotisation"
-pre = "#"
-url = "pricing"
-weight = 6
-[[menu.main]]
 name = "Nos partenaires"
 pre = "#"
 url = "portfolio"
 weight = 5
+[[menu.main]]
+name = "Cotisation"
+pre = "#"
+url = "pricing"
+weight = 6
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
