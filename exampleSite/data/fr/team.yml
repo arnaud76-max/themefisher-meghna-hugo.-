@@ -3,6 +3,12 @@ team:
   enable: false
   title: " Bureau étudiants "
   team_member:
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: Développeur web
+    designation: ''
+    content: ''
+    social: ''
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
     image: ''
