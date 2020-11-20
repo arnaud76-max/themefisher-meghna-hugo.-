@@ -1,5 +1,5 @@
 ---
 about:
-  enable: true
+  enable: false
   title: About Us
   about_item: []
