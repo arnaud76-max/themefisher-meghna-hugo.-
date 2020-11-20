@@ -2,34 +2,4 @@
 team:
   enable: true
   title: " Bureau étudiants "
-  team_member:
-  - name: Amélie Mauger
-    image_webp: ''
-    image: ''
-    designation: Commercial
-    content: ''
-    social: ''
-  - name: Fabien Ghuesqiere
-    image_webp: ''
-    image: ''
-    designation: Community management
-    content: ''
-    social: ''
-  - name: Gauthier Cauchois
-    image_webp: ''
-    image: ''
-    designation: Organisateur d'événements
-    content: ''
-    social: ''
-  - name: Quentin Huaume
-    image_webp: ''
-    image: ''
-    designation: Trésorier
-    content: ''
-    social: ''
-  - name: Emmanuel Mouanga-Zou
-    image_webp: ''
-    image: ''
-    designation: Web designer
-    content: ''
-    social: ''
+  team_member: []
