@@ -1,6 +1,6 @@
 ---
 team:
-  enable: true
+  enable: false
   title: Bureau des étudiants
   team_member:
   - name: Amélie Mauger
