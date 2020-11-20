@@ -57,11 +57,9 @@ portfolio:
     categories: []
     content: ''
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - design
-    - photography
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
