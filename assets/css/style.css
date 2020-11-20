@@ -65,7 +65,7 @@ figure {
 }
 
 a {
-  color: rgb(80, 2, 19);
+  color: rgb(212, 28, 68);
   transition: all .3s ease-in 0s;
 }
 
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: rgb(80, 5, 40);
+  color: rgb(212, 28, 68);
 }
 
 .title p {
