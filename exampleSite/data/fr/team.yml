@@ -3,72 +3,27 @@ team:
   enable: false
   title: " Bureau étudiants "
   team_member:
-  - name: Amélie Mauger
+  - name: Fabien Ghuesqiere
     image_webp: ''
     image: ''
-    designation: Commercial
-    content: ''
-    social: ''
-  - name: Fabien Ghesquiere
-    image_webp: ''
-    image: "/images/photo6.png"
     designation: Community management
     content: ''
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    social: ''
   - name: Gauthier Cauchois
     image_webp: ''
-    image: "/images/photo6.png"
+    image: ''
     designation: Organisateur d'événements
     content: ''
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    social: ''
   - name: Quentin Huaume
     image_webp: ''
-    image: "/images/photo6.png"
+    image: ''
     designation: Trésorier
     content: ''
     social: ''
-  - image_webp: ''
-    image: "/images/photo6.png"
-    content: ''
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-    designation: Web designer
-    name: Emmanuel Mouanga-Zou
-  - name: Arnaud Delahaye
+  - name: Emmanuel Mouanga-Zou
     image_webp: ''
-    image: "/images/photo6.png"
-    designation: " Développeur web"
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    image: ''
+    designation: Web designer
+    content: ''
+    social: ''

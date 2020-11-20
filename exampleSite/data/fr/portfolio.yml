@@ -10,63 +10,56 @@ portfolio:
     content: Malheureusement en raison du confinement la soirée d'halloween à du être
       annuler
     link: "/images/presentation-soiree-halloween.ogv"
-  - name: Sound system
+  - name: ''
     image: images/portfolio/halloween.png
     image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+  - name: ''
+    image: ''
+    image_webp: ''
     categories:
     - design
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+  - name: ''
+    image: ''
+    image_webp: ''
     categories:
     - photography
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: []
+    content: ''
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: []
+    content: ''
     link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: []
+    content: ''
     link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: []
+    content: ''
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - design
-    - photography
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
