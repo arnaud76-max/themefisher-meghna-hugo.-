@@ -26,6 +26,9 @@ pre = "#"
 url = "team"
 weight = 1
 [[menu.main]]
+name = "Créations de nos étudiants"
+weight = 2
+[[menu.main]]
 name = "Nous contacter"
 pre = "#"
 url = "contact"
@@ -35,9 +38,6 @@ name = "Cotisation"
 pre = "#"
 url = "pricing"
 weight = 6
-[[menu.main]]
-name = "Créations de nos étudiants"
-weight = 2
 [[menu.main]]
 name = "Evénements"
 pre = "#"
