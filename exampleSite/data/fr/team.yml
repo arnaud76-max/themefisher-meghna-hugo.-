@@ -3,6 +3,12 @@ team:
   enable: true
   title: Bureau des étudiants
   team_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Fabien Ghuesqiuere
     image_webp: ''
     image: ''
@@ -33,10 +39,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
+  - name: Gauthier Cauchois
+    image_webp: ''
+    image: ''
+    designation: Organisateur d'événements
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
