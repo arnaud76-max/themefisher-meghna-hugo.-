@@ -8,7 +8,7 @@ portfolio:
     image_webp: "/images/halloween-2.webp"
     categories: []
     content: ''
-    link: ''
+    link: "/images/presentation-soiree-halloween.ogv"
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
