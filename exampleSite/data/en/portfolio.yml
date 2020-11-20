@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Soirée halloween
     image: "/images/halloween-2.png"
-    image_webp: ''
+    image_webp: "/images/halloween-2.webp"
     categories: []
     content: ''
     link: https://themefisher.com
