@@ -3,7 +3,7 @@ team:
   enable: true
   title: " Bureau étudiants "
   team_member:
-  - name: Arnaud Delajhaye
+  - name: Arnaud Delahaye
     image_webp: ''
     image: ''
     designation: Développeur web
