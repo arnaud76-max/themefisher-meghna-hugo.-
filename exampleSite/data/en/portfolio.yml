@@ -27,12 +27,11 @@ portfolio:
     categories: []
     content: ''
     link: "#"
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: []
+    content: ''
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
