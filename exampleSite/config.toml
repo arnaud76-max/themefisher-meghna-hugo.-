@@ -21,6 +21,11 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = " Bureau des étudiants"
+pre = "#"
+url = "team"
+weight = 1
+[[menu.main]]
 name = "Créations de nos étudiants"
 weight = 2
 [[menu.main]]
@@ -43,11 +48,6 @@ name = "Evénements"
 pre = "#"
 url = "portfolio"
 weight = 3
-[[menu.main]]
-name = " Bureau des étudiants"
-pre = "#"
-url = "team"
-weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
