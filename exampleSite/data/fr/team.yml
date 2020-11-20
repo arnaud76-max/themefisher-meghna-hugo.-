@@ -3,6 +3,12 @@ team:
   enable: false
   title: " Bureau étudiants "
   team_member:
+  - name: Amélie Mauger
+    image_webp: ''
+    image: ''
+    designation: Commercial
+    content: ''
+    social: ''
   - name: Fabien Ghuesqiere
     image_webp: ''
     image: ''
