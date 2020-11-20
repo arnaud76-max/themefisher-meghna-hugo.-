@@ -10,7 +10,7 @@ portfolio:
     content: Malheureusement en raison du confinement la soirée d'halloween à du être
       annuler
     link: "/images/presentation-soiree-halloween.ogv"
-  - name: Sound system
+  - name: ''
     image: images/portfolio/halloween.png
     image_webp: images/portfolio/portfolio-2.webp
     categories:
