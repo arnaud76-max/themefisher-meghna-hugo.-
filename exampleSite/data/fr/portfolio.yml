@@ -36,9 +36,8 @@ portfolio:
   - name: ''
     image: ''
     image_webp: ''
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: ''
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
