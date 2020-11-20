@@ -3,6 +3,12 @@ team:
   enable: false
   title: " Bureau étudiants "
   team_member:
+  - name: Emmanuel Mouanga-Zou
+    image_webp: ''
+    image: ''
+    designation: Web designer
+    content: ''
+    social: ''
   - name: Amélie Mauger
     image_webp: ''
     image: ''
