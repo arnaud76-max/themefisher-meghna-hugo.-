@@ -1,5 +1,5 @@
 ---
 team:
-  enable: false
+  enable: true
   title: " Bureau étudiants "
   team_member: []
