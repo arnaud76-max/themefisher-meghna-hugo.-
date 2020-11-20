@@ -3,7 +3,7 @@ team:
   enable: true
   title: " Bureau étudiants "
   team_member:
-  - name: Fabien Ghesquiere
+  - name: Fabien Ghuesqiere
     image_webp: ''
     image: ''
     designation: Community management
