@@ -29,7 +29,7 @@ pre = "#"
 url = "portfolio"
 weight = 5
 [[menu.main]]
-name = "Appels aux dons"
+name = "Cotisation"
 pre = "#"
 url = "pricing"
 weight = 6
