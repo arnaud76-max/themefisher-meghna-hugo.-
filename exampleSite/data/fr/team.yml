@@ -1,6 +1,6 @@
 ---
 team:
-  enable: true
+  enable: false
   title: " Bureau étudiants "
   team_member:
   - name: Fabien Ghuesqiere
