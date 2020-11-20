@@ -4,7 +4,7 @@ portfolio:
   title: Evénements
   portfolio_item:
   - name: Soirée halloween
-    image: ''
+    image: "/images/halloween-2.png"
     image_webp: ''
     categories: []
     content: ''
