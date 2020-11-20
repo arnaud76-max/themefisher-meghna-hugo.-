@@ -4,11 +4,10 @@ portfolio:
   title: Evénements
   portfolio_item:
   - name: Soirée halloween
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    image: ''
+    image_webp: ''
+    categories: []
+    content: ''
     link: https://themefisher.com
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
