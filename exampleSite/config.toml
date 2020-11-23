@@ -41,7 +41,7 @@ weight = 4
 [[menu.main]]
 name = "Nos partenaires"
 pre = "#"
-url = "portfolio"
+url = "partenaire"
 weight = 5
 [[menu.main]]
 name = "Cotisation"
