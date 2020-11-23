@@ -24,7 +24,7 @@
 						<input type="radio" name="shuffle-filter" value="all" checked="checked" />{{ i18n "all"}}
 					</label>
 					{{ $categories := slice }}
-					{{ range .portfolio_item }}
+					{{ range .partenaire_item }}
 					{{ range .categories }}
 					{{ $categories = $categories | append . }}
 					{{ end }}
