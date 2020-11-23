@@ -1,8 +1,8 @@
 ---
 partenaire:
-  enable: false
+  enable: true
   title: Nos partenaires
-  portfolio_item:
+  partenaire_item:
   - name: metropole
     image: images/logo-metropole.jpg
     image_webp: "/images/logo-metropole-copie.webp"
@@ -12,38 +12,26 @@ partenaire:
   - name: f2i
     image: images/f2i.png
     image_webp: "/images/f2i.webp"
-    categories:
-    - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: ''
     image: "/images/logo.png"
     image_webp: "/images/logo.webp"
-    categories:
-    - design
-    - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: ''
     image: "/images/isd.png"
     image_webp: "/images/isd.webp"
-    categories:
-    - photography
-    - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: ''
     image: "/images/nwx-e1549538125325.png"
     image_webp: "/images/nwx-e1549538125325.webp"
-    categories:
-    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: ''
     image: "/images/greta.png"
     image_webp: "/images/greta.webp"
-    categories:
-    - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
 title: partenaire.yml
