@@ -1,5 +1,5 @@
 ---
-portfolio:
+partenaire:
   enable: false
   title: Nos partenaires
   portfolio_item:
@@ -46,4 +46,4 @@ portfolio:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-title: portfolio.yml2
+title: partenaire.yml
