@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MardiGras</title>
+        <meta charset="utf-8">
+        <meta name="viewport"
+        content="width=device-width, initial-scale=1, user-scalable=no">
+    </head>
+    <body>
+        <script>
+            let recette = ["farine","oeuf","lait", "sucre", "beurre"];
+            let quantite = [63, 1, 0.2, 0.5, 13];
+
+            let nbPersonne = function (personneNb)
+            {
+            return personneNb + 12;
+            }
+            nbPersonne (12);
+            console.log (nbPersonne(12));
+
+            let nbPersonne1 = function (personneNbs)
+            {
+                return  personneNbs + 25;
+            }
+            nbPersonne1 (24)
+            console.log (nbPersonne1(24));
+
+            function quantiteRecette (quantite,recette)
+            {
+               return quantite,recette *  12 ;
+            }
+            quantiteRecette * 12;
+            console.log(quantiteRecette(12));
+            
+           
+        </script>
+    </body>
+</html>
