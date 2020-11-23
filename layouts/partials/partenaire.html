@@ -46,7 +46,7 @@
 				<div class="partenaire-block mb-4">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerrorr="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zo
+						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
 							data-lightbox="image-1">
 							<i class="ti-search"></i>
 						</a>
