@@ -1,21 +1,19 @@
 baseURL = "https://NWE.com"
 disableLanguages = [""]
 disqusShortname = ""
-paginate = "6"
+paginate = "7"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "NWE"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -41,7 +39,7 @@ weight = 4
 [[menu.main]]
 name = "Nos partenaires"
 pre = "#"
-url = "portfolio"
+url = "partenaire"
 weight = 5
 [[menu.main]]
 name = "Cotisation"
