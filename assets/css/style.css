@@ -410,6 +410,7 @@ a:hover {
   background-color: rgb(80, 5, 40); ;
   width: 100%;
   margin-bottom: 0;
+  margin-left: 20px;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
@@ -417,7 +418,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
   color: whitesmoke;
-  margin-left: 20px;
+  
 }
 
 .navbar-toggler:focus {
