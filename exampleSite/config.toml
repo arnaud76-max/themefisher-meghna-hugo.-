@@ -19,33 +19,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = " Bureau des étudiants"
+name = "Nos partenaires"
 pre = "#"
-url = "team"
-weight = 1
+url = "partnair"
+weight = 5
 [[menu.main]]
 name = "Créations de nos étudiants"
 weight = 2
 [[menu.main]]
-name = "Evénements"
+name = "Cotisation"
 pre = "#"
-url = "portfolio"
-weight = 3
+url = "pricing"
+weight = 6
 [[menu.main]]
 name = "Nous contacter"
 pre = "#"
 url = "contact"
 weight = 4
 [[menu.main]]
-name = "Nos partenaires"
+name = "Evénements"
 pre = "#"
-url = "partnair"
-weight = 5
+url = "portfolio"
+weight = 3
 [[menu.main]]
-name = "Cotisation"
+name = " Bureau des étudiants"
 pre = "#"
-url = "pricing"
-weight = 6
+url = "team"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
