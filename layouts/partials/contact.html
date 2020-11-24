@@ -37,11 +37,7 @@
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-<<<<<<< HEAD
-				<form id="contact-form" class="form-meghna" method="post" data-netlify="true" action="{{ .form_action }}" role="form">
-=======
-				<form id="contact-form" class="form-meghna" method="POST" data-netlify="true" action="{{ .form_action }}" role="form">
->>>>>>> e354bbb2a93b96062acadd5dd68e148bec8979c5
+				<form id="contact-form" class="form-meghna" method="POST"  action="{{ .form_action }}" role="form">
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
 					</div>
@@ -54,13 +50,6 @@
 					<div class="form-group">
 						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
 					</div>
-					<p>
-						<label>Your Role: <select name="role[]" multiple>
-						  <option value="leader">Leader</option>
-						  <option value="follower">Follower</option>
-						</select></label>
-					  </p>
-
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="{{ .submit }}">{{ .submit }}</button>
