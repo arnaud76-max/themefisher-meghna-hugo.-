@@ -382,6 +382,8 @@ a:hover {
 .logo {
   margin-top: 10px;
   display: inline-block;
+  width: 50px;
+  height: 60px;
 }
 
 .single-page-header {
