@@ -15,7 +15,7 @@ contact:
     info: adelahaye@normandiewebschool.fr
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "adelahaye@normandiewebschool.fr"
     name: Nom
     email: Email
     subject: Matière
