@@ -50,7 +50,7 @@ weight = 6
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "/images/logo_nwe_blanc.png"
+logo = "/images/logo_nwe_blanc-recupere.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -87,7 +87,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "/images/logo_nwe_blanc.png"
+preloader = "/images/logo_nwe_blanc-recupere.png"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
