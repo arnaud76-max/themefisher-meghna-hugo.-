@@ -1,8 +1,8 @@
 ---
-partenaire:
+partnaire:
   enable: true
   title: Nos partenaires
-  partenaire_item:
+  partnair_item:
   - name: metropole
     image: images/logo-metropole.jpg
     image_webp: "/images/logo-metropole-copie.webp"
@@ -34,4 +34,4 @@ partenaire:
     image_webp: "/images/greta.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-title: partenaire.yml
+title: partnair.yml
