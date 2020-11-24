@@ -938,14 +938,104 @@ a:hover {
   border-radius: 30px;
 }
 
-.portfolio-block .caption .search-icon i {
+.partenaire-block .caption .search-icon i {
   line-height: 50px;
 }
+partenaire-filter .btn.active {
+  border-color: #57cbcc;
+ }
+ partenaire-block {
+  position: relative;
+ }
+ partenaire-block:before {
+  transition: all 0.3s ease-in-out;
+  background:rgb(80, 2, 19);
+  opacity: 0;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  position: absolute;
+  content: '';
+ }
+ .partenaire-filter .btn.active {
+  border-color: #57cbcc;
+}
 
+.partenaire-block {
+  position: relative;
+}
+
+.partenaire-block:before {
+  transition: all 0.3s ease-in-out;
+  background:rgb(80, 2, 19);
+  opacity: 0;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  position: absolute;
+  content: '';
+}
+
+.partenaire-block img {
+  width: 100%;
+  height: 100%;
+}
+
+.partenaire-block:hover:before {
+  opacity: 1;
+}
+
+.partenaire-block:hover .caption h4 {
+  top: 45%;
+}
+
+.partenaire-block:hover .caption {
+  opacity: 1;
+  top: 55%;
+}
+
+.partenaire-block .caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9;
+  transition: all 0.2s ease-in-out;
+  text-align: center;
+}
+
+.partenaire-block .caption h4 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.partenaire-block .caption h4 a {
+  color: #555;
+}
+
+.partenaire-block .caption .search-icon {
+  background: #57cbcc;
+  width: 50px;
+  height: 50px;
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 30px;
+}
+
+.partenaire-block .caption .search-icon i 
+{
+  line-height: 50px;
+}
 /*=================================================================
   Services section
 ==================================================================*/
-.service-block {
+.service-block 
+{
   padding: 60px 20px;
   border-left: 1px solid  rgb(80, 5, 40);
   border-top: 1px solid  rgb(80, 5, 40);
