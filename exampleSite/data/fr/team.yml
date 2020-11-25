@@ -1,9 +1,26 @@
 ############################### team ############################
 team:
-  enable: true
+  enable: false
   title: Our Team
   team_member:
+
    # team member loop
+  - name: Emmanuel Mouanga-Zou
+    image_webp: ''
+    image: ''
+    designation: Designer
+    content: ''
+    social: ''
+    
+     # team member loop
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: ''
+    designation: Développeur Web
+    content: ''
+    social: ''
+     
+     # team member loop
   - name: Fabien Ghuesquiere
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
@@ -19,13 +36,13 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+
        # team member loop
-  - name: Frank Miller
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
-    designation: Manager
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Gauthier Cauchois
+    image_webp: ''
+    image: ''
+    designation: Organisateur d'événements
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
@@ -35,13 +52,13 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-       # team member loop
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+
+   # team member loop
+  - name: Amelie Mauger
+    image_webp: ''
+    image: ''
+    designation: Commercial
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
@@ -51,13 +68,19 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-       # team member loop
+
+    # team member loop
   - name: Mo. Kha. Alamgir
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: SEO Specialist
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Trésorier
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
