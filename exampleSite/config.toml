@@ -11,41 +11,41 @@ contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-{{menu.main}}
+[[Languages.en.menu.main]]
 name= "Blog"
 pre ="#"
 url="about"
 weight = 1
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Créations de nos étudiants"
 weight = 2
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Evénements"
 pre = "#"
 url = "portfolio"
 weight = 3
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = " Bureau des étudiants"
 pre = "#"
 url = "team"
 weight = 4
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Cotisation"
 pre = "#"
 url = "pricing"
 weight = 5
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Nos partenaires"
 pre = "#"
 url = "partnair"
 weight = 6
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Nous contacter"
 pre = "#"
 url = "contact"
@@ -57,41 +57,42 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 
-{{menu.main}}
+[[Languages.fr.menu.main]]
 name= "Blog"
 pre ="#"
 url="about"
 weight = 1
 
-[[menu.main]]
+[[Languages.fr.menu.main]]
 name = "Créations de nos étudiants"
 weight = 2
 
-[[menu.main]]
+[[Languages.fr.menu.main]]
 name = "Evénements"
 pre = "#"
 url = "portfolio"
 weight = 3
 
-[[menu.main]]
+[[Languages.fr.menu.main]]
 name = " Bureau des étudiants"
 pre = "#"
 url = "team"
 weight = 4
 
-[[menu.main]]
+
+[[Languages.fr.menu.main]]
 name = "Cotisation"
 pre = "#"
 url = "pricing"
 weight = 5
 
-[[menu.main]]
+[[Languages.fr.menu.main]]
 name = "Nos partenaires"
 pre = "#"
 url = "partnair"
 weight = 6
 
-[[menu.main]]
+[[Languages.fr.menu.main]]
 name = "Nous contacter"
 pre = "#"
 url = "contact"
