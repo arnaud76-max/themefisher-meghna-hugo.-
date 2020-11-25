@@ -3,6 +3,9 @@ team:
   enable: true
   title: Our Team
   team_member:
+
+    # team member loop
+    
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
     image: ''
@@ -19,6 +22,7 @@ team:
       link: "#"
 
     # team member loop
+
   - name: Arnaud Delahaye
     image_webp: ''
     image: ''
@@ -50,6 +54,8 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+
+    # team member loop
 
   - name: Gauthier Cauchois
     image_webp: ''
