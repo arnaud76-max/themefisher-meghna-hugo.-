@@ -87,7 +87,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "/images/logo_nwe_blanc-recupere.png"
+preloader = "/images/logo_nwe_blanc.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/NormandieWebEvents/?view_public_for=101986181672326"
