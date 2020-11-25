@@ -1,6 +1,6 @@
 ############################### team ############################
 team:
-  enable: false
+  enable: true
   title: Our Team
   team_member:
 
@@ -11,7 +11,7 @@ team:
     designation: Designer
     content: ''
     social: ''
-    
+
      # team member loop
   - name: Arnaud Delahaye
     image_webp: ''
@@ -70,12 +70,7 @@ team:
       link: "#"
 
     # team member loop
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+
   - name: Quentin Huaume
     image_webp: ''
     image: ''
