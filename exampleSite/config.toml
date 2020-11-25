@@ -89,6 +89,9 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "/images/logo_nwe_blanc-recupere.png"
 [[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/NormandieWebEvents/?view_public_for=101986181672326"
+[[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
