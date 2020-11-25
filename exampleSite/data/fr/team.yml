@@ -8,7 +8,7 @@ team:
     image: ''
     designation: Designer
     content: ''
-    social: ''
+    social: 
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -26,7 +26,7 @@ team:
     image: ''
     designation: Développeur Web
     content: ''
-    social: ''
+    social: 
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
