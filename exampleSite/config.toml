@@ -1,5 +1,4 @@
 baseURL = "https://NWE.com"
-disqusShortname = "" # get your shortname form here : https://disqus.com
 disableLanguages = [""]
 disqusShortname = ""
 paginate = "7"
