@@ -5,13 +5,13 @@ team:
   team_member:
 
     # team member loop
-    
+
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
     image: ''
     designation: Designer
     content: ''
-    social: ''
+    social: 
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -28,7 +28,7 @@ team:
     image: ''
     designation: Développeur Web
     content: ''
-    social: ''
+    social: 
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
