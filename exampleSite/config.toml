@@ -19,38 +19,38 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = " Bureau des étudiants"
+name = "Nos partenaires"
 pre = "#"
-url = "team"
-weight = 1
+url = "partnair"
+weight = 5
 [[menu.main]]
 name = "Créations de nos étudiants"
 weight = 2
 [[menu.main]]
-name = "Evénements"
+name = "Cotisation"
 pre = "#"
-url = "portfolio"
-weight = 3
+url = "pricing"
+weight = 6
 [[menu.main]]
 name = "Nous contacter"
 pre = "#"
 url = "contact"
 weight = 4
 [[menu.main]]
-name = "Nos partenaires"
+name = "Evénements"
 pre = "#"
 url = "portfolio"
-weight = 5
+weight = 3
 [[menu.main]]
-name = "Cotisation"
+name = " Bureau des étudiants"
 pre = "#"
-url = "pricing"
-weight = 6
+url = "team"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "/images/logo_nwe_blanc.png"
+logo = "/images/logo_nwe_blanc-recupere.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -87,7 +87,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "/images/logo_nwe_blanc.png"
+preloader = "/images/logo_nwe_blanc-recupere.png"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
