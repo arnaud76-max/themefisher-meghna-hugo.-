@@ -25,7 +25,6 @@ team:
     designation: Développeur Web
     content: ''
     social: ''
-
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -51,7 +50,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-      
+
   - name: Gauthier Cauchois
     image_webp: ''
     image: ''
