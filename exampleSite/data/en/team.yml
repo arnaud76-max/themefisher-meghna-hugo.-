@@ -25,8 +25,7 @@ team:
     image_webp: ''
     image: ''
     designation: Community management
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: 
     social:
     - icon: ti-facebook
       link: "#"
@@ -42,8 +41,7 @@ team:
     image_webp: ''
     image: ''
     designation: Organisateur d'événements
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: 
     social:
     - icon: ti-facebook
       link: "#"
@@ -69,7 +67,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-      
+
       # team member loop
   - name: Quentin Huaume
     image_webp: ''
