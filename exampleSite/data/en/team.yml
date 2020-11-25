@@ -1,16 +1,15 @@
-############################### team ############################
+---
 team:
   enable: true
   title: Our Team
   team_member:
-
-  # team member loop
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
     image: ''
     designation: Designer
     content: ''
     social: ''
+<<<<<<< HEAD
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -21,12 +20,15 @@ team:
       link: "#"
 
     # team member loop
+=======
+>>>>>>> f47f9a469b0a0664b0fc80e7c5c4f3f2152d9a91
   - name: Arnaud Delahaye
     image_webp: ''
     image: ''
     designation: Développeur Web
     content: ''
     social: ''
+<<<<<<< HEAD
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -37,6 +39,8 @@ team:
       link: "#"
 
     # team member loop
+=======
+>>>>>>> f47f9a469b0a0664b0fc80e7c5c4f3f2152d9a91
   - name: Fabien Ghesquiere
     image_webp: ''
     image: ''
@@ -51,45 +55,11 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-
-      # team member loop
   - name: Gauthier Cauchois
     image_webp: ''
     image: ''
     designation: Organisateur d'événements
     content: 
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-
-      # team member loop
-  - name: Amelie Mauger
-    image_webp: ''
-    image: ''
-    designation: Commercial
-    content: ''
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-
-      # team member loop
-  - name: Quentin Huaume
-    image_webp: ''
-    image: ''
-    designation: Trésorier
-    content: ''
     social:
     - icon: ti-facebook
       link: "#"
