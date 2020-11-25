@@ -1,6 +1,5 @@
 
 {{ $data := index site.Data site.Language.Lang }}
-
 {{ if $data.team.team.enable }}
 {{ with $data.team.team }}
 {{"<!-- Start Our Team -->" | safeHTML}}
