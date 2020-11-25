@@ -1,26 +1,20 @@
-############################### team ############################
+---
 team:
   enable: true
   title: Our Team
   team_member:
-
-   # team member loop
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
     image: ''
     designation: Designer
     content: ''
     social: ''
-
-     # team member loop
   - name: Arnaud Delahaye
     image_webp: ''
     image: ''
     designation: Développeur Web
     content: ''
     social: ''
-     
-     # team member loop
   - name: Fabien Ghuesquiere
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
@@ -36,8 +30,6 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-
-       # team member loop
   - name: Gauthier Cauchois
     image_webp: ''
     image: ''
@@ -52,29 +44,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-
-   # team member loop
   - name: Amelie Mauger
     image_webp: ''
     image: ''
     designation: Commercial
-    content: ''
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-
-    # team member loop
-
-  - name: Quentin Huaume
-    image_webp: ''
-    image: ''
-    designation: Trésorier
     content: ''
     social:
     - icon: ti-facebook
