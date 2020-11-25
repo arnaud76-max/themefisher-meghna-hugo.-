@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: ''
+    designation: Développeur Web
+    content: ''
+    social: ''
   - name: Fabien Ghesquiere
     image_webp: ''
     image: ''
