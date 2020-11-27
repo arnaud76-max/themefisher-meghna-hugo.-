@@ -5,7 +5,6 @@ image_webp: "/photo6.webp"
 image: "/photo6.png"
 author: Arnaud Delahaye
 description: Développeur web en 2eme année
-draft: true
 
 ---
 Je m'appelle Arnaud Delahaye, je suis en seconde année de dév à la NWS et je recherche un marketeur(se) et un designer(se) afin de créer un réseau social.
