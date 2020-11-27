@@ -3,10 +3,10 @@ Team:
   activer: true
   title: Notre équipe
   team_member:
-  - nom: ''
+  - nom: Gauthier Cauchois
     image_webp: ''
     image: ''
-    désignation: ''
+    désignation: Organisateur d'évènements
     contenu: ''
     social: ''
   - nom: Gauthier Cauchois
