@@ -26,9 +26,9 @@ team:
   - name: Quentin Huaume
     image_webp: ''
     image: ''
-    designation: Commercial
+    designation: Trésorier
     content: ''
-    social:
+    social: ''
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -36,23 +36,7 @@ team:
     - icon: ti-linkedin
       link: "#"
     - icon: ti-dribbble
-      link: "#"
-
-    # team member loop
-    
-  - name: Gauthier Cauchois
-    image_webp: ''
-    image: ''
-    designation: Organisateur d'évènements
-    content: ''
-    social: ''
-  - name: Quentin Huaume
-    image_webp: ''
-    image: ''
-    designation: Trésorier
-    content: ''
-    social: ''
-
+      link: "#" 
 # team member loop
 
   - name: Emmanuel Mouanga-Zou
