@@ -3,7 +3,7 @@ team:
   enable: true
   title: Our Team
   team_member:
-  
+
   # team member loop
 
   - name: Gauthier Cauchois
@@ -54,6 +54,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+
+      # team member loop
+
   - name: Arnaud Delahaye
     image_webp: ''
     image: ''
@@ -103,10 +106,3 @@ team:
     - icon: ti-dribbble
       link: "#"
 
-      
-
-
-=======
-    name: Amelie Mauger
-    designation: Commercial
->>>>>>> 8fd74a479df08923c9f3c4df31e02aa11fd20110
