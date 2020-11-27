@@ -34,7 +34,6 @@
             <li>{{ . }}</li>
             {{ end }}
           </ul>
-
           {{"<!-- signup button -->" | safeHTML}}
           {{ with .button }}
           <a class="btn btn-transparent" href="{{ .link | safeURL }}">{{ .label }}</a>
