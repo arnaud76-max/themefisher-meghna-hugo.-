@@ -39,8 +39,7 @@ team:
       link: "#"
 
     # team member loop
-
-
+    
   - name: Gauthier Cauchois
     image_webp: ''
     image: ''
@@ -53,6 +52,8 @@ team:
     designation: Trésorier
     content: ''
     social: ''
+
+# team member loop
 
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
