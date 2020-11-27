@@ -3,10 +3,10 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: ''
+  - name: Fabien Ghesquiere
     image_webp: ''
     image: ''
-    designation: ''
+    designation: Community management
     content: ''
     social: ''
   - name: ''
