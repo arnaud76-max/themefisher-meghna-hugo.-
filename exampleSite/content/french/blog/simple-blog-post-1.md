@@ -1,8 +1,8 @@
 ---
 title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+date: 2020-11-27T10:08:36+00:00
+image_webp: "/photo6.webp"
+image: "/photo6.png"
 author: Arnaud Delahaye
 description: Développeur web en 2eme année
 draft: true
