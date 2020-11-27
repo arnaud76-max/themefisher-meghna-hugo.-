@@ -1,0 +1,50 @@
+donnation:
+  enable: true
+  title: Donnation
+  pricing_table:
+  - name: ''
+    price: 10€
+    unit: ''
+    services: []
+    button:
+      label: Signup
+      link: "#"
+  - name: ''
+    price: 15€
+    unit: ''
+    services:
+    - 
+    - 
+    - 
+    - 
+    -
+    - 
+    button:
+      label: Signup
+      link: "#"
+  - name: ''
+    price: 20€
+    unit: ''
+    services:
+    - 
+    - 
+    - 
+    -
+    - 
+    - 
+    button:
+      label: Signup
+      link: "#"
+  - name: ''
+    price: 30€
+    unit: ''
+    services:
+    - 
+    - 
+    - 
+    -
+    - 
+    - 
+    button:
+      label: Signup
+      link: "#"
