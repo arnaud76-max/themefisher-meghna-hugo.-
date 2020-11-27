@@ -1,5 +1,5 @@
 ---
-partnaire:
+partnair:
   enable: true
   title: Nos partenaires
   partnair_item:
@@ -34,4 +34,4 @@ partnaire:
     image_webp: "/images/greta.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-title: partnair.yml
+
