@@ -31,3 +31,29 @@ donnation:
     button:
       label: Signup
       link: "#"
+  pricing_table:
+  - name: ''
+    price: 10€
+    unit: ''
+    services: ''
+    button: ''
+  - name: ''
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
+  - name: ''
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
+  - name: ''
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
+  - name: ''
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
