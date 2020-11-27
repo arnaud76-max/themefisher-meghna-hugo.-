@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Trésorier
+    content: ''
+    social: ''
   - name: Fabien Ghesquiere
     image_webp: ''
     image: ''
