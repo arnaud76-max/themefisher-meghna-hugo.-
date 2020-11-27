@@ -6,60 +6,51 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "NWE"
-
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-
 [Languages.fr]
 contentDir = "content/french"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-
-
 [[menu.main]]
-name= "About"
-pre ="#"
-url="about"
-weight = 1
-
+name = "Création de nos étudiants"
+pre = ""
+url = ""
+weight = "2"
 [[menu.main]]
-name = "creation of our students"
-weight = 2
-
+name = ""
+pre = ""
+url = ""
+weight = ""
 [[menu.main]]
-name = "Events"
-pre = "#"
-url = "portfolio"
-weight = 3
-
+name = ""
+pre = ""
+url = ""
+weight = ""
 [[menu.main]]
-name = "Students' desk"
-pre = "#"
-url = "team"
-weight = 4
-
+name = ""
+pre = ""
+url = ""
+weight = ""
 [[menu.main]]
-name = "Contribution"
-pre = "#"
-url = "pricing"
-weight = 5
-
+name = ""
+pre = ""
+url = ""
+weight = ""
 [[menu.main]]
-name = "Our partners"
-pre = "#"
-url = "partnair"
-weight = 6
-
+name = ""
+pre = ""
+url = ""
+weight = ""
 [[menu.main]]
-name = "Our contact"
-pre = "#"
-url = "contact"
-weight = 7
-
+name = ""
+pre = ""
+url = ""
+weight = ""
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
@@ -69,14 +60,12 @@ post_share = true
 [params.cookies]
 enable = false
 expire_days = 2
-
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
-
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
