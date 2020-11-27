@@ -66,20 +66,4 @@ Team:
           lien : " # "
         - icône : pack d'icônes ti-dribbble # themify: https://themify.me/themify-icons
           lien : " # "
-          # boucle de membre de l'équipe
-    - nom : Arnaud Delahaye
-      image_webp : images / équipe / équipe-4.webp
-      image : images / équipe / équipe-4.jpg
-      désignation : Développeur Web
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icône : ti-facebook # pack d'icônes themify: https://themify.me/themify-icons
-          lien : " # "
-        - icône : ti-twitter-alt # pack d'icônes themify: https://themify.me/themify-icons
-          lien : " # "
-        - icône : ti-linkedin # pack d'icônes themify: https://themify.me/themify-icons
-          lien : " # "
-        - icône : pack d'icônes ti-dribbble # themify: https://themify.me/themify-icons
-          lien : " # "
-
-  
+         
