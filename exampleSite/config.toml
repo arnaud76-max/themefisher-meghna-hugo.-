@@ -1,7 +1,7 @@
 baseURL = "https://NWE.com"
 disableLanguages = [""]
 disqusShortname = ""
-paginate = "7"
+paginate = "8"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
@@ -46,19 +46,16 @@ name = "Contact"
 pre = ""
 url = "contact"
 weight = 6
-
 [[menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
 weight = 7
-
 [[menu.main]]
 name = "Cotisation"
 pre = ""
 url = "pricing"
 weight = "8"
-
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
