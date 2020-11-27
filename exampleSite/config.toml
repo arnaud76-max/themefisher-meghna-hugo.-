@@ -31,31 +31,38 @@ name = "Bureau des étudiants"
 pre = ""
 url = "team"
 weight = "3"
+
 [[menu.main]]
-name = "Faire un don"
-pre = ""
-url = "donnation"
-weight = "4"
+name = "Parrainer"
+pre = "#"
+url = "blog"
+weight = 4
+
 [[menu.main]]
 name = "Nos partenaires"
 pre = ""
 url = "partnair"
 weight = "5"
+
 [[menu.main]]
-name = "Contact"
+name = "Faire un don"
 pre = ""
-url = "contact"
-weight = 6
-[[menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 7
+url = "donnation"
+weight = "6"
+
+
 [[menu.main]]
 name = "Cotisation"
 pre = ""
 url = "pricing"
-weight = "8"
+weight = "7"
+
+[[menu.main]]
+name = "Contact"
+pre = ""
+url = "contact"
+weight = 8
+
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
