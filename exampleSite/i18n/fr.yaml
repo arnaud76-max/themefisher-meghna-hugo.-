@@ -19,10 +19,14 @@
   translation: Services
 - id: portfolio
   translation: Portfolio
+  - id: partnair
+  translation: Partnair
 - id: team
   translation: Équipe
 - id: pricing
   translation: Tarification
+  - id: donnation
+  translation: Donnation
 - id: blog
   translation: Blog
 - id: contact
