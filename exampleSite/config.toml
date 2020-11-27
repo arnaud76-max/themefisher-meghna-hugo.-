@@ -6,50 +6,12 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "NWE"
+
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-[[Languages.en.menu.main]]
-name= "About"
-pre ="#"
-url="about"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "creation of our students"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "Events"
-pre = "#"
-url = "portfolio"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "Students' desk"
-pre = "#"
-url = "team"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "Contribution"
-pre = "#"
-url = "pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
-name = "Our partners"
-pre = "#"
-url = "partnair"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "Our contact"
-pre = "#"
-url = "contact"
-weight = 7
 
 [Languages.fr]
 contentDir = "content/french"
@@ -57,43 +19,43 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 
-[[Languages.fr.menu.main]]
-name= "Blog"
+
+[[menu.main]]
+name= "About"
 pre ="#"
 url="about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "Créations de nos étudiants"
+[[menu.main]]
+name = "creation of our students"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "Evénements"
+[[menu.main]]
+name = "Events"
 pre = "#"
 url = "portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = " Bureau des étudiants"
+[[menu.main]]
+name = "Students' desk"
 pre = "#"
 url = "team"
 weight = 4
 
-
-[[Languages.fr.menu.main]]
-name = "Cotisation"
+[[menu.main]]
+name = "Contribution"
 pre = "#"
 url = "pricing"
 weight = 5
 
-[[Languages.fr.menu.main]]
-name = "Nos partenaires"
+[[menu.main]]
+name = "Our partners"
 pre = "#"
 url = "partnair"
 weight = 6
 
-[[Languages.fr.menu.main]]
-name = "Nous contacter"
+[[menu.main]]
+name = "Our contact"
 pre = "#"
 url = "contact"
 weight = 7
