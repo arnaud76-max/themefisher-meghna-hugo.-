@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Gauthier Cauchois
+    image_webp: ''
+    image: ''
+    designation: Organisateur d'évènements
+    content: ''
+    social: ''
   - name: Quentin Huaume
     image_webp: ''
     image: ''
