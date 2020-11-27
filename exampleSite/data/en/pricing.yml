@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: true
+  enable: false
   title: Cotisation
   pricing_table:
   - name: ''
