@@ -3,6 +3,12 @@ Team:
   activer: true
   title: Notre équipe
   team_member:
+  - nom: ''
+    image_webp: ''
+    image: ''
+    désignation: ''
+    contenu: ''
+    social: ''
   - nom: Gauthier Cauchois
     image_webp: ''
     image: ''
@@ -54,10 +60,8 @@ Team:
       lien: " # "
     - icône: pack d'icônes ti-dribbble
       lien: " # "
-  - nom: Emmanuel Mouanga-Zou
-    image_webp: images / équipe / équipe-4.webp
+  - image_webp: images / équipe / équipe-4.webp
     image: images / équipe / équipe-4.jpg
-    désignation: Designer
     contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -69,3 +73,5 @@ Team:
       lien: " # "
     - icône: pack d'icônes ti-dribbble
       lien: " # "
+    nom: Arnaud Delahaye
+    désignation: Développeur web
