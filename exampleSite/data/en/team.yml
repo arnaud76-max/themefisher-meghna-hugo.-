@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Team :
   activer : true
   title : Notre équipe
@@ -66,45 +65,3 @@ Team :
           lien : " # "
         - icône : pack d'icônes ti-dribbble # themify: https://themify.me/themify-icons
           lien : " # "
-=======
----
-équipe:
-  activer: true
-  team_member:
-  - nom: Gauthier Cauchois
-    image_webp: ''
-    image: ''
-    désignation: Organisateur d'évènements
-    contenu: ''
-    social: ''
-  - nom: Quentin Huaume
-    image_webp: ''
-    image: ''
-    désignation: Trésorier
-    contenu: ''
-    social: ''
-  - nom: Amelie Mauger
-    image_webp: ''
-    image: ''
-    désignation: Commercial
-    contenu: ''
-    social: ''
-  - nom: Fabien Ghesquiere
-    image_webp: ''
-    image: ''
-    désignation: Community management
-    contenu: ''
-    social: ''
-  - nom: Emmanuel Mouanga-Zou
-    image_webp: ''
-    image: ''
-    désignation: Designer
-    contenu: ''
-    social: ''
-  - nom: Arnaud Delahaye
-    image_webp: ''
-    image: ''
-    désignation: Développeur web
-    contenu: ''
-    social: ''
->>>>>>> 8c3ff5999474744916e9424c721f1bf8c7c8c025
