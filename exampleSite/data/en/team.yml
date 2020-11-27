@@ -3,6 +3,7 @@ team:
   enable: true
   title: Our Team
   team_member:
+<<<<<<< HEAD
 
    # team member loop
 
@@ -40,12 +41,26 @@ team:
 
     # team member loop
 
+=======
+  - name: Gauthier Cauchois
+    image_webp: ''
+    image: ''
+    designation: Organisateur d'évènements
+    content: ''
+    social: ''
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Trésorier
+    content: ''
+    social: ''
+>>>>>>> 8fd74a479df08923c9f3c4df31e02aa11fd20110
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
     image: ''
     designation: Designer
     content: ''
-    social: 
+    social:
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -54,15 +69,18 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+<<<<<<< HEAD
 
    # team member loop
  
+=======
+>>>>>>> 8fd74a479df08923c9f3c4df31e02aa11fd20110
   - name: Arnaud Delahaye
     image_webp: ''
     image: ''
     designation: Développeur Web
     content: ''
-    social: 
+    social:
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -71,9 +89,12 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+<<<<<<< HEAD
 
       # team member loop
 
+=======
+>>>>>>> 8fd74a479df08923c9f3c4df31e02aa11fd20110
   - name: Fabien Ghesquiere
     image_webp: ''
     image: ''
@@ -88,6 +109,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+<<<<<<< HEAD
 
    # team member loop
 
@@ -96,6 +118,11 @@ team:
     image: ''
     designation: Commercial
     content: ''
+=======
+  - image_webp: ''
+    image: ''
+    content: 
+>>>>>>> 8fd74a479df08923c9f3c4df31e02aa11fd20110
     social:
     - icon: ti-facebook
       link: "#"
@@ -104,4 +131,10 @@ team:
     - icon: ti-linkedin
       link: "#"
     - icon: ti-dribbble
+<<<<<<< HEAD
       link: "#"
+=======
+      link: "#"
+    name: Amelie Mauger
+    designation: Commercial
+>>>>>>> 8fd74a479df08923c9f3c4df31e02aa11fd20110
