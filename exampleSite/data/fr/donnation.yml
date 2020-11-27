@@ -2,7 +2,7 @@
 donnation:
   enable: true
   title: Faire un don
-  pricing_table:
+  donnation_table:
   - name: ''
     price: 10€
     unit: ''
