@@ -12,39 +12,21 @@ donnation:
   - name: ''
     price: 15€
     unit: ''
-    services:
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    services: []
     button:
       label: Signup
       link: "#"
   - name: ''
     price: 20€
     unit: ''
-    services:
-    - 
-    - 
-    - 
-    -
-    - 
-    - 
+    services: []
     button:
       label: Signup
       link: "#"
   - name: ''
     price: 30€
     unit: ''
-    services:
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    services: []
     button:
       label: Signup
       link: "#"
