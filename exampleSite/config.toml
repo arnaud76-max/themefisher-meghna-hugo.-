@@ -22,10 +22,10 @@ pre = ""
 url = ""
 weight = "2"
 [[menu.main]]
-name = ""
+name = "Evenement"
 pre = ""
-url = ""
-weight = ""
+url = "portofolio"
+weight = "3"
 [[menu.main]]
 name = ""
 pre = ""
