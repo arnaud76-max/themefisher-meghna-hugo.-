@@ -17,44 +17,45 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 [[menu.main]]
-name = "Bureau des étudiants"
+name = "Création de nos étudiants"
 pre = ""
-url = "team"
-weight = 3
+url = ""
+weight = "1"
 [[menu.main]]
 name = "Évènements"
 pre = ""
 url = "portofolio"
-weight = 2
+weight = "2"
 [[menu.main]]
-name = "Création de nos étudiants"
+name = "Bureau des étudiants"
 pre = ""
-weight = 1
-[[menu.main]]
-name = "Cotisation"
-pre = ""
-url = "pricing"
-weight = 7
-[[menu.main]]
-name = "Parrainer "
-pre = "#"
-url = "blog"
-weight = 4
-[[menu.main]]
-name = "Contact"
-pre = ""
-url = "contact"
-weight = 8
-[[menu.main]]
-name = "Nos partenaires"
-pre = ""
-url = "partnair"
-weight = 5
+url = "team"
+weight = "3"
 [[menu.main]]
 name = "Faire un don"
 pre = ""
 url = "donnation"
+weight = "4"
+[[menu.main]]
+name = "Nos partenaires"
+pre = ""
+url = "partnair"
+weight = "5"
+[[menu.main]]
+name = "Contact"
+pre = ""
+url = "contact"
 weight = 6
+[[menu.main]]
+name = "Parrainer"
+pre = "#"
+url = "blog"
+weight = "4"
+[[menu.main]]
+name = "Cotisation"
+pre = ""
+url = "pricing"
+weight = "8"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
