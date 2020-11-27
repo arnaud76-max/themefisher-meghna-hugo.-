@@ -42,10 +42,10 @@ pre = ""
 url = "partnair"
 weight = "6"
 [[menu.main]]
-name = ""
+name = "Contact"
 pre = ""
-url = ""
-weight = ""
+url = "contact"
+weight = "7"
 [[menu.main]]
 name = ""
 pre = ""
