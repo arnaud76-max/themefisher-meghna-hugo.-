@@ -45,7 +45,7 @@ weight = "5"
 name = "Contact"
 pre = ""
 url = "contact"
-weight = 6
+weight = "8"
 [[menu.main]]
 name = "Parrainer"
 pre = "#"
