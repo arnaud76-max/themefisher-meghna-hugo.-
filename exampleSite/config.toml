@@ -47,7 +47,7 @@ pre = ""
 url = "contact"
 weight = "7"
 [[menu.main]]
-name = ""
+name = "Cotisation"
 pre = ""
 url = ""
 weight = ""
