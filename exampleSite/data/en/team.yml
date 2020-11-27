@@ -4,6 +4,40 @@ team:
   title: Our Team
   team_member:
 
+   # team member loop
+
+  - name: Gauthier Cauchois
+    image_webp: ''
+    image: ''
+    designation: Organisateur d'événements
+    content: 
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+
+    # team member loop
+
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Commercial
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+
     # team member loop
 
   - name: Emmanuel Mouanga-Zou
@@ -21,8 +55,8 @@ team:
     - icon: ti-dribbble
       link: "#"
 
-    # team member loop
-
+   # team member loop
+ 
   - name: Arnaud Delahaye
     image_webp: ''
     image: ''
@@ -38,7 +72,7 @@ team:
     - icon: ti-dribbble
       link: "#"
 
-    # team member loop
+      # team member loop
 
   - name: Fabien Ghesquiere
     image_webp: ''
@@ -55,13 +89,13 @@ team:
     - icon: ti-dribbble
       link: "#"
 
-    # team member loop
+   # team member loop
 
-  - name: Gauthier Cauchois
+- name: Amelie Mauger
     image_webp: ''
     image: ''
-    designation: Organisateur d'événements
-    content: 
+    designation: Commercial
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
