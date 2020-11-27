@@ -21,11 +21,13 @@ name = "Création de nos étudiants"
 pre = ""
 url = ""
 weight = "1"
+
 [[menu.main]]
 name = "Évènements"
 pre = ""
 url = "portofolio"
 weight = "2"
+
 [[menu.main]]
 name = "Bureau des étudiants"
 pre = ""
@@ -49,7 +51,6 @@ name = "Faire un don"
 pre = ""
 url = "donnation"
 weight = "6"
-
 
 [[menu.main]]
 name = "Cotisation"
