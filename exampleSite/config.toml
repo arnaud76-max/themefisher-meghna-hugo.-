@@ -60,6 +60,12 @@ pre = "#"
 url = "contact"
 weight = 7
 
+[[menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
+weight = 8
+
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
