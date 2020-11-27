@@ -2,7 +2,7 @@
 donnation:
   enable: true
   title: Donnation
-  pricing_table:
+  donnation_table:
   - name: ''
     price: 10€
     unit: ''
