@@ -3,6 +3,43 @@ team:
   enable: true
   title: Our Team
   team_member:
+
+  # team member loop
+
+  - name: Gauthier Cauchois
+    image_webp: ''
+    image: ''
+    designation: Organisateur d'événements
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+        
+     # team member loop
+
+  - name: Quentin Huaume
+    image_webp: ''
+    image: ''
+    designation: Commercial
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+
+   # team member loop
+
   - name: Emmanuel Mouanga-Zou
     image_webp: ''
     image: ''
@@ -39,11 +76,10 @@ team:
      # team member loop
 
   - name: Fabien Ghuesquiere
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: 
+    image: 
     designation: Community management
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: 
     social:
     - icon: ti-facebook
       link: "#"
@@ -54,10 +90,12 @@ team:
     - icon: ti-dribbble
       link: "#"
 
-  - name: Gauthier Cauchois
+   # team member loop
+
+  - name: Amelie Mauger
     image_webp: ''
     image: ''
-    designation: Organisateur d'événements
+    designation: Commercial
     content: ''
     social:
     - icon: ti-facebook
@@ -68,3 +106,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+
+      
+
+
