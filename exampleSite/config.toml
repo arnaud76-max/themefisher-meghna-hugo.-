@@ -11,53 +11,6 @@ contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-[[menu.main]]
-name = "Creations of our students"
-pre = ""
-url = ""
-weight = "1"
-
-[[menu.main]]
-name = "Évènts"
-pre = ""
-url = "portofolio"
-weight = "2"
-
-[[menu.main]]
-name = "students office"
-pre = ""
-url = "team"
-weight = "3"
-
-[[menu.main]]
-name = "Sponsor"
-pre = "#"
-url = "blog"
-weight = 4
-
-[[menu.main]]
-name = "Our partnairs"
-pre = ""
-url = "partnair"
-weight = "5"
-
-[[menu.main]]
-name = "donnation"
-pre = ""
-url = "donnation"
-weight = "6"
-
-[[menu.main]]
-name = "Contribution"
-pre = ""
-url = "pricing"
-weight = "7"
-
-[[menu.main]]
-name = "Contact"
-pre = ""
-url = "contact"
-weight = 8
 
 [Languages.fr]
 contentDir = "content/french"
