@@ -1,9 +1,9 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.pricing.pricing.enable }}
-{{ with $data.pricing.pricing }}
-{{"<!-- Start Pricing section -->" | safeHTML}}
-<section id="pricing" class="pricing section">
+{{ if $data.donnation.donnation.enable }}
+{{ with $data.donnation.donnation }}
+{{"<!-- Start donnation section -->" | safeHTML}}
+<section id="donnation" class="donnation section">
   <div class="container">
     <div class="row justify-content-center">
 
@@ -17,13 +17,13 @@
       </div>
       {{"<!-- /section title -->" | safeHTML}}
 
-      {{ range .pricing_table }}
+      {{ range .donnation_table }}
       {{"<!-- single pricing table -->" | safeHTML}}
       <div class="col-lg-3 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms"></div>
-        <div class="price-item">
+        <div class="donnation-item">
 
           {{"<!-- plan name & value -->" | safeHTML}}
-          <div class="price-title">
+          <div class="donnation-title">
             <h3>{{ .name }}</h3>
             <p><strong class="value">{{ .price }}</strong>/ {{ .unit }}</p>
           </div>
@@ -34,18 +34,17 @@
             <li>{{ . }}</li>
             {{ end }}
           </ul>
-
           {{"<!-- signup button -->" | safeHTML}}
           {{ with .button }}
           <a class="btn btn-transparent" href="{{ .link | safeURL }}">{{ .label }}</a>
           {{ end }}
         </div>
       </div>
-      {{"<!-- end single pricing table -->" | safeHTML}}
+      {{"<!-- end single donnation table -->" | safeHTML}}
       {{ end }}
     </div>
   </div>
 </section>
-{{"<!-- /pricing -->" | safeHTML}}
+{{"<!-- /donnation -->" | safeHTML}}
 {{ end }}
 {{ end }}
