@@ -1,7 +1,4 @@
-Team :
-  activer : true
-  title : Notre équipe
-  ---
+---
 Team:
   activer: true
   title: Notre équipe
