@@ -37,10 +37,10 @@ pre = ""
 url = "pricing"
 weight = "5"
 [[menu.main]]
-name = ""
+name = "Nos partenaires"
 pre = ""
-url = ""
-weight = ""
+url = "partnair"
+weight = "6"
 [[menu.main]]
 name = ""
 pre = ""
