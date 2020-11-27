@@ -32,7 +32,7 @@ pre = ""
 url = "team"
 weight = "4"
 [[menu.main]]
-name = "Cotisation"
+name = "Faire un don"
 pre = ""
 url = "pricing"
 weight = "5"
