@@ -17,39 +17,40 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 [[menu.main]]
-name = "Inscription au BDE"
+name = "Création de nos étudiants"
 pre = ""
-url = "pricing"
-weight = 7
+url = ""
+weight = "1"
 [[menu.main]]
-name = "Faire un don"
+name = "Évènements"
 pre = ""
-url = "donnation"
-weight = 6
+url = "portofolio"
+weight = "2"
 [[menu.main]]
-name = "Nos partenaires"
+name = "Bureau des étudiants"
 pre = ""
-url = "partnair"
-weight = 5
+url = "team"
+weight = "3"
 [[menu.main]]
 name = "Parrainer"
 pre = "#"
 url = "blog"
 weight = 4
 [[menu.main]]
-name = "Bureau des étudiants"
+name = "Nos partenaires"
 pre = ""
-url = "team"
-weight = 3
+url = "partnair"
+weight = "5"
 [[menu.main]]
-name = "Événements"
+name = "Faire un don"
 pre = ""
-url = "portofolio"
-weight = 2
+url = "donnation"
+weight = "6"
 [[menu.main]]
-name = "Création de nos étudiants"
+name = "Cotisation"
 pre = ""
-weight = 1
+url = "pricing"
+weight = "7"
 [[menu.main]]
 name = "Contact"
 pre = ""
@@ -96,7 +97,10 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "/images/logo_nwe_blanc.png"
+preloader = ""
+[[params.Inscription]]
+icon = "/images/conexion.png"
+link = "inscription.html"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/NormandieWebEvents/?view_public_for=101986181672326"
@@ -109,6 +113,3 @@ link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
-[[params. Inscription]]
-icon = "ti-google"
-link = "inscription.html"
