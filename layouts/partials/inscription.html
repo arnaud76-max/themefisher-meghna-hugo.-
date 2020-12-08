@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inscription</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="assets\css\custom.css">
+        <meta name="viewport"content = "width = device-width, initial-scale = 1,0">
+        <script>async</script>
+        <script href="script.js"></script>
+    </head>
+    <body>
+        <form class="form-connexion" methode="post">
+            <h1 class="h3 mb-3 font-weight-normal" style="text-align: center">Se connecter</h1>
+            <div class="social-login">
+                <button class="btm facebook-btn social-btn" type= "button"><span><i class="fab fa-facebook">
+                </i>Connecter vous avec Facebook</span></button>
+            </div>
+            <div class="social-login">
+                <button class="btm google-btn social-btn" type= "button"><span><i class="fab fo-google-plus-g">
+                </i>Connecter vous avec Google</span></button>
+            </div>
+            <p style="text-align: center"> OU  </p>
+            <div class="form-group position-relative mb-1">
+                <input type="email" id="inputEmail" name="emailConnexion" class="form-control is-invalid"
+                
+                placeholder="Address électronique" required=""autofocus="" value="">
+                <div class="valid-feedback feedback-icon">
+                    <i class="fa fa-check"></i>
+                </div>
+                <div class="invalid-feedback feedback-icon">
+                    <i class="fa fa-itemes"></i>
+                </div>
+            </div>
+            <small id="resultat"></small>
+            <button class="btn btn-success btn-block" name="seConnecter" type="submit"><i class="fa fa-user-plus"></i>
+                <i class="ml-1">Se connecter</i></button>
+                <a href="#" id="forgot_pswd">Mot de passe oublié</a>
+
+                <hr>
+                <button class="btn btn-primary btn-block" type="button" id="btn-signup">
+                    <i class="fa fa-user-plus"></i><i class="ml-1">Créer un nouveau compte</i></button>
+        </form>
+
+    </body>
+</html>
+
+
+
+
