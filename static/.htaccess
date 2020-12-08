@@ -18,6 +18,13 @@ AddOutputFilterByType DEFLATE image/svg+xml
 <IfModule mod_expires.c>
 ExpiresActive On
 
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ /index.php [L]
+</IfModule>
+
 # Images
 ExpiresByType image/jpeg "access plus 1 year"
 ExpiresByType image/gif "access plus 1 year"
