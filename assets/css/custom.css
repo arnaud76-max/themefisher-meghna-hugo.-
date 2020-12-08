@@ -1,11 +1,10 @@
-
 #logreg-forms
 {
   width: 412px;
   margin:10vh auto;
   background-color: #f3f3f3;
   border-radius:6px;
-  box-shadow: 1px 2px 4px rgba(0,0,0,0,12), 0 1px 2px rgba(0, 0,0, 0, 0.24);
+  box-shadow: 1px 2px 4px rgba(0,0,0,0,12), 0 1px 2px rgba(0, 0, 0, 0, 0
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
   border: 1px solid #3c589c;
 }
@@ -47,6 +46,54 @@
  margin: 0 auto;
  margin-bottom: 14px;
 }
+#logreg-forms .social-btn
+{
+ font-weight: 100px;
+ width: 390px;
+ color: white;
+ margin-bottom: 14px;
+ font-size: 0.9rem;
+}
+#logreg-forms a
+{
+  display: block;
+  padding-top: 10px;
+  color: lightseagreen;
+}
+#logreg-forms .lines
+{
+  width: 200px;
+  border:1px solid red;
+}
+#logreg-forms button[type="submit"]
+{
+  margin-top: 10px;
+}
+#logreg-forms .facebook-btn
+{
+  background-color: #3c589c;
+}
+#logreg-forms .google-btn
+{
+  background-color:#DF483B;
+}
+#logreg-forms .form-rest, #logreg-forms .form-inscription-btn
+{
+  display: none;
+}
+#logreg-forms .form-inscription .social-btn
+{
+  width: 390px;
+}
+#logreg-forms .form-inscription input
+{
+  margin-bottom: 2px;
+}
+.form-inscription .social-login
+{
+  width: 390px !important;
+  margin:0 auto;
+}
 
 
 
@@ -54,4 +101,7 @@
 
 
 
- 
+
+
+
+
