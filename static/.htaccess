@@ -22,7 +22,7 @@ ExpiresActive On
   RewriteEngine On
   RewriteBase /
   RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteRule ^(.*)$ /index.php [L]
+  RewriteRule ^(.*)$ /login.php [L]
 </IfModule>
 
 # Images
