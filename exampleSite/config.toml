@@ -17,7 +17,7 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 [[menu.main]]
-name = "Cotisation"
+name = "Inscription au BDE"
 pre = ""
 url = "pricing"
 weight = 7
