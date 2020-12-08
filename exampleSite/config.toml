@@ -109,3 +109,6 @@ link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
+[[params. Inscription]]
+icon = "ti-google"
+link = "inscription.html"
