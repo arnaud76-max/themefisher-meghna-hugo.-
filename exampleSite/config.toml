@@ -98,9 +98,6 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.Inscription]]
-icon = "/images/conexion.png"
-link = "inscription.html"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/NormandieWebEvents/?view_public_for=101986181672326"
