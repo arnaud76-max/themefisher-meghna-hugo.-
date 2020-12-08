@@ -143,3 +143,36 @@ jQuery(function ($) {
 	});
 
 });
+
+/*========================================================================== *
+Code Ajax pour les identifications
+/*======================================================================================*/
+
+$(document).ready(function()
+{
+$("#seConnecter").click(function()
+{
+$.ajax({
+	type: "post",
+	url: "formConnexion.php",
+	data: 
+	{
+		"emailC" : $("#inputEmail").val(),
+		"pwdC"   : $("#inputPassword").val()
+	},
+	success: function(data)
+	{
+		if(data == "Success")
+		{
+			$("#resultat").css("color","green").html("Vous avez été connecté avec succès !");
+		}
+		else
+		{
+			$("#resultat").css("color","red").html(data);
+
+		}
+	}
+
+});
+});
+});
