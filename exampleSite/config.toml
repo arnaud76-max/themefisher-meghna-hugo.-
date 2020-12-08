@@ -11,60 +11,50 @@ contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-
 [Languages.fr]
 contentDir = "content/french"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 [[menu.main]]
-name = "Création de nos étudiants"
+name = "Inscription au BDE"
 pre = ""
-url = ""
-weight = "1"
-
+url = "pricing"
+weight = 7
 [[menu.main]]
-name = "Évènements"
+name = "Faire un don"
 pre = ""
-url = "portofolio"
-weight = "2"
-
+url = "donnation"
+weight = 6
 [[menu.main]]
-name = "Bureau des étudiants"
+name = "Nos partenaires"
 pre = ""
-url = "team"
-weight = "3"
-
+url = "partnair"
+weight = 5
 [[menu.main]]
 name = "Parrainer"
 pre = "#"
 url = "blog"
 weight = 4
-
 [[menu.main]]
-name = "Nos partenaires"
+name = "Bureau des étudiants"
 pre = ""
-url = "partnair"
-weight = "5"
-
+url = "team"
+weight = 3
 [[menu.main]]
-name = "Faire un don"
+name = "Événements"
 pre = ""
-url = "donnation"
-weight = "6"
-
+url = "portofolio"
+weight = 2
 [[menu.main]]
-name = "Cotisation"
+name = "Création de nos étudiants"
 pre = ""
-url = "pricing"
-weight = "7"
-
+weight = 1
 [[menu.main]]
 name = "Contact"
 pre = ""
 url = "contact"
 weight = 8
-
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
