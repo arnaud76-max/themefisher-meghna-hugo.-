@@ -23,6 +23,14 @@ Team:
     désignation: Community management
     contenu: 
     social: 
+    - icône: ti-facebook
+      lien: " # "
+    - icône: ti-twitter-alt
+      lien: " # "
+    - icône: ti-linkedin
+      lien: " # "
+    - icône: pack d'icônes ti-dribbble
+      lien: " # "
   - nom: Amelie Mauger
     image_webp: images / équipe / équipe-1.webp
     image: images / équipe / équipe-1.jpg
