@@ -34,4 +34,34 @@ partnair:
     image_webp: "/images/greta.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-
+  partenaire_item:
+  - name: F2I
+    image: "/images/f2i.png"
+    image_webp: "/images/f2i.webp"
+    categories: ''
+    content: ''
+    link: ''
+  - name: Nws
+    image: "/images/nws.png"
+    image_webp: "/images/nws-copie.webp"
+    categories: ''
+    content: ''
+    link: ''
+  - name: NWX
+    image_webp: "/images/nwx-e1549538125325.webp"
+    categories: ''
+    content: ''
+    link: ''
+    image: "/images/nwx-e1549538125325.png"
+  - name: métropole
+    image: "/images/nwx-e1549538125325.png"
+    image_webp: "/images/nwx-e1549538125325.webp"
+    categories: ''
+    content: ''
+    link: ''
+  - categories: ''
+    content: ''
+    link: ''
+    image: "/images/isd.png"
+    image_webp: "/images/isd.webp"
+    name: ISD
