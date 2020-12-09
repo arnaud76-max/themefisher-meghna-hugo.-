@@ -63,3 +63,5 @@ partnair:
     content: ''
     link: ''
     image: "/images/isd.png"
+    image_webp: "/images/isd.webp"
+    name: ISD
