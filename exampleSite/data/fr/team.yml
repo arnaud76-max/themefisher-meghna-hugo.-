@@ -4,11 +4,11 @@ Team:
   title: Notre équipe
   team_member:
   - nom: Gauthier Cauchois
-    image_webp: ''
-    image: ''
+    image_webp: images / équipe / équipe-1.webp
+    image: images / équipe / équipe-1.jpg
     désignation: Organisateur d'évènements
-    contenu: ''
-    social: ''
+    contenu: 
+    social: 
 - icône: ti-facebook
       lien: " # "
     - icône: ti-twitter-alt
@@ -18,11 +18,11 @@ Team:
     - icône: pack d'icônes ti-dribbble
       lien: " # "
   - nom: Fabien Ghuesqiere
-    image_webp: ''
-    image: ''
+    image_webp: images / équipe / équipe-1.webp
+    image: images / équipe / équipe-1.jpg
     désignation: Community management
     contenu: ''
-    social: ''
+    social: 
     - icône: ti-facebook
       lien: " # "
     - icône: ti-twitter-alt
