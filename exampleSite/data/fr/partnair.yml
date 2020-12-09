@@ -35,6 +35,18 @@ partnair:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   partenaire_item:
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
   - name: NWX
     image_webp: "/images/nwx-e1549538125325.webp"
     categories: ''
@@ -47,15 +59,6 @@ partnair:
     categories: ''
     content: ''
     link: ''
-  - name: académie
-    image: "/images/logo.png"
-    image_webp: "/images/logo.webp"
-    categories: ''
-    content: ''
-    link: ''
-  - name: Gréta
-    image: "/images/greta.png"
-    image_webp: "/images/greta.webp"
-    categories: ''
+  - categories: ''
     content: ''
     link: ''
