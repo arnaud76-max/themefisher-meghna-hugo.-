@@ -43,7 +43,7 @@ partnair:
     link: ''
   - name: Nws
     image: "/images/nws.png"
-    image_webp: ''
+    image_webp: "/images/nws-copie.webp"
     categories: ''
     content: ''
     link: ''
