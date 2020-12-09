@@ -55,21 +55,6 @@ name = "Faire un don"
 pre = "#"
 url = "partnair"
 weight = 5
-[[menu.main]]
-name = "Cotisation"
-pre = "#"
-url = "pricing"
-weight = 6
-[[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 7
-[[menu.main]]
-name = "themefisher"
-pre = ""
-url = ""
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
