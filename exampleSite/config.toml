@@ -18,7 +18,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 [[menu.main]]
 name = "Création de nos étudiants"
-pre = ""
+pre = "#"
 url = ""
 weight = "1"
 [[menu.main]]
