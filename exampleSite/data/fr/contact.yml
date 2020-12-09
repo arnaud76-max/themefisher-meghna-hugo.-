@@ -21,8 +21,3 @@ contact:
     subject: Matière
     message: Message
     submit: Soumettre
-menu:
-  main:
-    name: Contact
-    pre: ''
-    weight: 7

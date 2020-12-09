@@ -63,8 +63,3 @@ portfolio:
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-menu:
-  main:
-    name: Événements
-    pre: ''
-    weight: 2
