@@ -38,7 +38,7 @@ url = "blog"
 weight = 4
 [[menu.main]]
 name = "Nos partenaires"
-pre = ""
+pre = "#"
 url = "partnair"
 weight = "5"
 [[menu.main]]
