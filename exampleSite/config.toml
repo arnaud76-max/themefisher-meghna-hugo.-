@@ -19,12 +19,12 @@ languageName = "Fr"
 [[menu.main]]
 name = "Création de nos étudiants"
 pre = ""
-url = ""
+url = "team"
 weight = "1"
 [[menu.main]]
-name = "Évènements"
-pre = ""
-url = "portofolio"
+name = "Événements"
+pre = "#"
+url = "portfolio"
 weight = "2"
 [[menu.main]]
 name = "Bureau des étudiants"
