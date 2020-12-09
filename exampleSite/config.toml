@@ -53,7 +53,7 @@ weight = 7
 [[menu.main]]
 name = "Faire un don"
 pre = "#"
-url = "testimonial"
+url = "donnation"
 weight = 8
 [params]
 author = "Themefisher"
