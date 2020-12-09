@@ -33,7 +33,7 @@ weight = 3
 [[menu.main]]
 name = "Parrainer"
 pre = "#"
-url = "partnair"
+url = "testimonial"
 weight = 4
 [[menu.main]]
 name = "Nos partenaires"
