@@ -9,6 +9,14 @@ Team:
     désignation: Organisateur d'évènements
     contenu: ''
     social: ''
+    - icône: ti-facebook
+      lien: " # "
+    - icône: ti-twitter-alt
+      lien: " # "
+    - icône: ti-linkedin
+      lien: " # "
+    - icône: pack d'icônes ti-dribbble
+      lien: " # "
   - nom: Fabien Ghuesqiere
     image_webp: ''
     image: ''
@@ -60,9 +68,11 @@ Team:
       lien: " # "
     - icône: pack d'icônes ti-dribbble
       lien: " # "
-  - image_webp: images / équipe / équipe-4.webp
-    image: images / équipe / équipe-4.jpg
-    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
+    nom: Emmanuel Mouanga-Zou
+    image_webp: images / équipe / équipe-3.webp
+    image: images / équipe / équipe-3.jpg
+    désignation: Designer
+contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
     - icône: ti-facebook
@@ -73,5 +83,3 @@ Team:
       lien: " # "
     - icône: pack d'icônes ti-dribbble
       lien: " # "
-    nom: Emmanuel Mouanga-Zou
-    désignation: Designer
