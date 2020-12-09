@@ -1,7 +1,7 @@
 baseURL = "https://NWE.com"
 disableLanguages = [""]
 disqusShortname = ""
-paginate = "8"
+paginate = "7"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
@@ -26,35 +26,35 @@ pre = ""
 url = "portfolio"
 weight = 2
 [[menu.main]]
-name = "Faire un don"
-pre = "#"
-url = ""
-weight = 3
 name = "Bureau des étudiants"
 pre = "#"
 url = "team"
-weight =  4
+weight = 3
 [[menu.main]]
 name = "Parrainer"
 pre = "#"
-url = "testimonial"
-weight = 5
+url = "partnair"
+weight = 4
 [[menu.main]]
 name = "Nos partenaires"
 pre = "#"
 url = "partnair"
-weight = 6
+weight = 5
 [[menu.main]]
 name = "Cotisation"
 pre = "#"
-url = "donnation"
-weight = 7
+url = "pricing"
+weight = 6
 [[menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
+weight = 7
+[[menu.main]]
+name = "Faire un don"
+pre = "#"
+url = "blog"
 weight = 8
-
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
