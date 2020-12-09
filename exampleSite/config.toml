@@ -32,7 +32,7 @@ pre = ""
 url = "team"
 weight = 3
 [[menu.main]]
-name = "Évènements"
+name = "Événements"
 pre = ""
 url = "portofolio"
 weight = 2
