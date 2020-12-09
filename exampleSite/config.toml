@@ -18,7 +18,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 [[menu.main]]
-[[menu.main]]
 name = "Création de nos étudiants"
 pre = ""
 weight = 1
@@ -53,6 +52,7 @@ pre = "#"
 url = "contact"
 weight = 7
 [params]
+
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
