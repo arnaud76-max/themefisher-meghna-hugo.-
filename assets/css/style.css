@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color:whitesmoke;
+  background-color:  rgb(80, 5, 40) ;;
   font-family: "Anaheim", sans-serif;
   color: rgb(80, 5, 40) ;
   -webkit-font-smoothing: antialiased;
@@ -228,7 +228,7 @@ a:hover {
 }
 
 .border-meghna:before {
-  background-color: #fff;
+  background-color:#fff;
   content: '';
   height: 6px;
   left: 50%;
