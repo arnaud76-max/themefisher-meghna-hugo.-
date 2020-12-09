@@ -43,7 +43,7 @@ partnair:
     image: "/images/nwx-e1549538125325.png"
   - name: métropole
     image: "/images/nwx-e1549538125325.png"
-    image_webp: ''
+    image_webp: "/images/nwx-e1549538125325.webp"
     categories: ''
     content: ''
     link: ''
