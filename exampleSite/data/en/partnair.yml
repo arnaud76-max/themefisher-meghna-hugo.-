@@ -7,29 +7,29 @@ partnair:
     image: images/logo-metropole.jpg
     image_webp: "/images/logo-metropole-copie.webp"
     categories: []
-    content: ''
-    link: ''
+    content: 
+    link: 
   - name: f2i
     image: images/f2i.png
     image_webp: "/images/f2i.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
-  - name: ''
+    link: 
+  - name: 
     image: "/images/logo.png"
     image_webp: "/images/logo.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: ''
+  - name: 
     image: "/images/isd.png"
     image_webp: "/images/isd.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: ''
+  - name: 
     image: "/images/nwx-e1549538125325.png"
     image_webp: "/images/nwx-e1549538125325.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: ''
+  - name: 
     image: "/images/greta.png"
     image_webp: "/images/greta.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
