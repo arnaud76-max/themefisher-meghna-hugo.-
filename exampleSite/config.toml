@@ -53,8 +53,8 @@ weight = 7
 [[menu.main]]
 name = "Faire un don"
 pre = "#"
-url = "partnair"
-weight = blog
+url = ""
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
