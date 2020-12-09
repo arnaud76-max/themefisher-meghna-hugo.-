@@ -10,3 +10,5 @@ banner:
     enable: true
     label: ''
     link: "#portfolio"
+  bg_image_webp: "/images/fond-copie.webp"
+  bg_image: "/images/fond-copie.png"
