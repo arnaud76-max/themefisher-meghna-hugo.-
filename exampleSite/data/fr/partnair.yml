@@ -47,9 +47,9 @@ partnair:
     categories: ''
     content: ''
     link: ''
-  - name: ''
+  - name: académie
     image: ''
-    image_webp: ''
+    image_webp: "/images/logo.webp"
     categories: ''
     content: ''
     link: ''
