@@ -9,7 +9,7 @@ Team:
     désignation: Organisateur d'évènements
     contenu: 
     social: 
-- icône: ti-facebook
+    - icône: ti-facebook
       lien: " # "
     - icône: ti-twitter-alt
       lien: " # "
@@ -21,7 +21,7 @@ Team:
     image_webp: images / équipe / équipe-1.webp
     image: images / équipe / équipe-1.jpg
     désignation: Community management
-    contenu: ''
+    contenu: 
     social: 
     - icône: ti-facebook
       lien: " # "
