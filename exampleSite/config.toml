@@ -11,7 +11,6 @@ contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-[params]
 [Languages.fr]
 contentDir = "content/french"
 home = "Accueil"
