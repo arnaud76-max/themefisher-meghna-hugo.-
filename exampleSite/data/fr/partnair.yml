@@ -54,7 +54,7 @@ partnair:
     content: ''
     link: ''
   - name: Gréta
-    image: ''
+    image: "/images/greta.png"
     image_webp: "/images/greta.webp"
     categories: ''
     content: ''
