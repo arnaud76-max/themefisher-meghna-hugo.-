@@ -53,7 +53,7 @@ url = "pricing"
 weight = "7"
 [[menu.main]]
 name = "Contact"
-pre = ""
+pre = "#"
 url = "contact"
 weight = 8
 [params]
