@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_vidéo_webm: " exampleSite/static/images"
-  bg_vidéo: "/images/fondnwe_1.webm"
+  bg_vidéo_webm: " "
+  bg_vidéo: ''
   icon: ''
   title: La NWE vous souhaite la bienvenue !
   content: ''
@@ -10,3 +10,5 @@ banner:
     enable: true
     label: ''
     link: "#portfolio"
+  bg_image_webp: "/images/fond-copie.webp"
+  bg_image: "/images/fond-copie.png"
