@@ -43,7 +43,7 @@ url = "partnair"
 weight = "5"
 [[menu.main]]
 name = "Faire un don"
-pre = ""
+pre = "#"
 url = "donnation"
 weight = "6"
 [[menu.main]]
