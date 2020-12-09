@@ -36,7 +36,7 @@ partnair:
     link: "#"
   partenaire_item:
   - name: F2I
-    image: ''
+    image: "/images/f2i.png"
     image_webp: ''
     categories: ''
     content: ''
