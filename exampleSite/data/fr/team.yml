@@ -75,3 +75,8 @@ Team:
       lien: " # "
     nom: Emmanuel Mouanga-Zou
     désignation: Designer
+menu:
+  main:
+    name: Bureau des étudiants
+    pre: ''
+    weight: 3

@@ -34,4 +34,8 @@ partnair:
     image_webp: "/images/greta.webp"
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-
+menu:
+  main:
+    name: Parrainer
+    pre: "#"
+    weight: 4

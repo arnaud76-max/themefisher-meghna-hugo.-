@@ -31,3 +31,8 @@ pricing:
     button:
       label: Signup
       link: "#"
+menu:
+  main:
+    name: Cotisation
+    pre: ''
+    weight: 6
