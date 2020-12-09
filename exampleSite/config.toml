@@ -87,7 +87,7 @@ weight = 7
 [[menu.main]]
 name = "themefisher"
 pre = ""
-url = "https://themefisher.com/"
+url = ""
 weight = 8
 
 [params]
