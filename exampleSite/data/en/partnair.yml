@@ -2,7 +2,7 @@
 partnair:
   enable: true
   title: Nos partenaires
- partnair_item:
+  partenaire_item:
   - name: metropole
     image: images/logo-metropole.jpg
     image_webp: "/images/logo-metropole-copie.webp"
