@@ -23,12 +23,12 @@ url = ""
 weight = "1"
 [[menu.main]]
 name = "Événements"
-pre = ""
+pre = "#"
 url = "portfolio"
 weight = "2"
 [[menu.main]]
 name = "Bureau des étudiants"
-pre = ""
+pre = "#"
 url = "team"
 weight = "3"
 [[menu.main]]
