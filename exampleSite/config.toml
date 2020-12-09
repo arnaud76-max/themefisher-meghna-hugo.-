@@ -6,10 +6,6 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "NWE"
-[Languages.en]
-contentDir = "content/english"
-home = "Home"
-languageCode = "en-us"
 languageName = "En"
 [Languages.fr]
 contentDir = "content/french"
@@ -54,7 +50,7 @@ weight = 7
 name = "Faire un don"
 pre = "#"
 url = "partnair"
-weight = 5
+weight = blog
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
