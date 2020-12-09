@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color:  rgb(80, 5, 40) ;;
+  background-image:url("fond.png");
   font-family: "Anaheim", sans-serif;
   color: rgb(80, 5, 40) ;
   -webkit-font-smoothing: antialiased;
