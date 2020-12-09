@@ -16,45 +16,93 @@ contentDir = "content/french"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-[[menu.main]]
+[[ Langues . en . menu . main]]
 name = "Création de nos étudiants"
 pre = ""
 weight = 1
-[[menu.main]]
+[[ Langues . en . menu . main]]
 name = "Événements"
 pre = "#"
 url = "portfolio"
 weight = 2
-[[menu.main]]
+[[ Langues . en . menu . main ]]
 name = "Bureau des étudiants"
 pre = "#"
 url = "team"
 weight = 3
-[[menu.main]]
+[[ Langues . en . menu . main ]]
 name = "Parrainer"
 pre = "#"
 url = "blog"
 weight = 4
-[[menu.main]]
+[[ Langues . en . menu . main ]]
 name = "Nos partenaires"
 pre = "#"
 url = "partnair"
 weight = 5
-[[menu.main]]
+[[ Langues . en . menu . main ]]
 name = "Cotisation"
 pre = "#"
 url = "pricing"
 weight = 6
-[[menu.main]]
+[[ Langues . en . menu . main ]]
 name = "Contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[menu.main]]
+[[ Langues . en . menu . main]]
 name = "Faire un don"
 pre = "#"
 url = "donnation"
 weight = 8
+
+[[ Langues . fr . menu . main]]
+name = "Création de nos étudiants"
+pre = ""
+weight = 1
+
+[[ Langues . fr . menu . main]]
+name = "Événements"
+pre = "#"
+url = "portfolio"
+weight = 2
+
+[[ Langues . fr . menu . main]]
+name = "Bureau des étudiants"
+pre = "#"
+url = "team"
+weight = 3
+
+[[ Langues . fr . menu . main]]
+name = "Parrainer"
+pre = "#"
+url = "blog"
+weight = 4
+
+[[ Langues . fr . menu . main]]
+name = "Nos partenaires"
+pre = "#"
+url = "partnair"
+weight = 5
+
+[[ Langues . fr . menu . main]]
+name = "Cotisation"
+pre = "#"
+url = "pricing"
+weight = 6
+
+[[ Langues . fr . menu . main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 7
+
+[[ Langues . fr . menu . main]]
+name = "Faire un don"
+pre = "#"
+url = "donnation"
+weight = 8
+
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
